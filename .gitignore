@@ -1,1 +1,3 @@
 data/movielens-25m/
+__pychache__/   
+*.pyc
