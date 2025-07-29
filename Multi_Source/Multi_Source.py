@@ -18,7 +18,7 @@ def multi_source_algorithm(sources, UR, theta, method="algo_main"):
     chosen_order = []
     i = 0
     terminate = False
-
+    
     # STEP 1: Incrementally select sources with coverage_guided_row_selection
     while not terminate:
         terminate = True
@@ -44,12 +44,13 @@ def multi_source_algorithm(sources, UR, theta, method="algo_main"):
 
     # STEP 2: If coverage_penalty, run penalty_optimization at the end
     if method == "coverage_penalty" and final_cov >= theta:
-        T, _ = penalty_optimization(T, pd.concat(sources, ignore_index=True), UR, i, theta)
+        T, _ = penalty_optimization(T, pd.concat(sources, ignore_index=True), UR, 0, theta)
 
     # STEP 3: If algo_main, run optimize_selection at the end
     if method == "algo_main" and final_cov >= theta:
-        T, _ = penalty_optimization(T, pd.concat(sources, ignore_index=True), UR, i, theta)
+        T, _ = penalty_optimization(T, pd.concat(sources, ignore_index=True), UR, 0, theta)
         T, _ = optimize_selection(T, UR)
+        print(T)
 
     return T, i + 1, chosen_order
 
@@ -61,7 +62,7 @@ def main():
     """ Main function to split T and run the multi-source algorithm. """
     # Load the test case
     test_cases = TestCases()
-    T_input, UR = test_cases.get_case(21)  # Load predefined test case 1
+    T_input, UR = test_cases.get_case(23)  # Load predefined test case 1
     #UR = dataframe_to_ur_dict(UR)
     theta = 1  # Example coverage threshold
     constructor = SourceConstructor(T_input, UR)
@@ -89,7 +90,7 @@ def main():
     #sources = split_by_keywords(T_input)
     
     
-    T_output, _, _ = multi_source_algorithm(sources, UR, theta, method="algo_main") 
+    T_output, _, _ = multi_source_algorithm(sources, UR, theta, method="sss") 
     T_output, _ = optimize_selection(T_output, UR)
 
     # Compute final coverage

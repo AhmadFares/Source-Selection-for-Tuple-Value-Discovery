@@ -1,0 +1,2027 @@
+newLevel,algorithmLevel,checked,keyword_id,keyword_name,topic_name,subtopic_name,Identifiant
+3,1,1.0,157.0,Linear transformation,Linear Algebra,Linear Transformations,6720
+2,2,1.0,114.0,Matrix multiplication,Linear Algebra,Matrices and Determinants,13804
+3,2,1.0,13.0,Polyhedrons,Fundamental Mathematics,,17074
+5,4,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,3016
+1,5,1.0,137.0,Square linear system,Linear Algebra,Linear Systems,9583
+3,3,,85.0,Product rule,Differentiation,Derivatives,23187
+1,4,1.0,317.0,Rearranging equations,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",9790
+1,1,1.0,101.0,Substitution,Integration,Integration Techniques,14787
+2,3,,127.0,Eigenvalues,Linear Algebra,Eigenvalues and Eigenvectors,22359
+3,1,1.0,121.0,Inverse of a matrix ,Linear Algebra,Matrices and Determinants,11900
+3,2,1.0,80.0,Planar graph,Graph Theory,,7955
+2,4,1.0,137.0,Square linear system,Linear Algebra,,9488
+2,1,1.0,268.0,Lagrange's interpolation,Numerical Methods,,13202
+2,1,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",20993
+5,1,1.0,66.0,Orthogonality,Analytic Geometry,,12017
+1,1,1.0,222.0,Bisection method,Numerical Methods,,18525
+4,3,1.0,351.0,Jacobi method,Numerical Methods,,18033
+5,2,1.0,101.0,Substitution,Integration,Integration Techniques,12042
+3,2,1.0,151.0,Basis,Linear Algebra,Vector Spaces,4857
+1,2,1.0,177.0,Minimum,Optimization,Nonlinear Optimization,17382
+3,4,1.0,85.0,Product rule,Differentiation,Derivatives,11029
+3,4,1.0,102.0,Integration by parts,Integration,Integration Techniques,11022
+2,2,1.0,176.0,Optimal solution,Optimization,Nonlinear Optimization,21848
+2,1,1.0,156.0,Linearity,Linear Algebra,,1511
+3,1,1.0,161.0,Injective linear transformation,Linear Algebra,Linear Transformations,7583
+2,5,1.0,23.0,Real part,Complex Numbers,,7974
+5,4,1.0,15.0,Polygons,Fundamental Mathematics,,14646
+1,1,1.0,199.0,Integral curve,Differential Equations,,19330
+4,1,1.0,2.0,Exponential function,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",14232
+3,4,1.0,85.0,Product rule,Differentiation,Derivatives,14570
+1,1,1.0,148.0,Span,Linear Algebra,Vector Spaces,4661
+2,3,1.0,177.0,Minimum,Optimization,Nonlinear Optimization,17365
+2,5,1.0,33.0,Operations with complex numbers,Complex Numbers,,11983
+2,1,1.0,8.0,Square roots,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",445
+1,1,1.0,151.0,Basis,Linear Algebra,Vector Spaces,5097
+1,5,1.0,29.0,Nth root,Complex Numbers,,16754
+2,5,1.0,265.0,First order,Differentiation,Partial Differentiation,22782
+4,2,1.0,151.0,Basis,Linear Algebra,Vector Spaces,2593
+3,3,1.0,127.0,Eigenvalues,Linear Algebra,Eigenvalues and Eigenvectors,11636
+1,2,1.0,159.0,Kernel,Linear Algebra,Linear Transformations,4222
+2,1,1.0,88.0,Sum rule,Differentiation,Derivatives,13341
+2,3,1.0,45.0,Sample,Statistics,,2129
+1,2,1.0,156.0,Linearity,Linear Algebra,Linear Transformations,6271
+3,2,1.0,23.0,Real part,Complex Numbers,,16432
+2,5,1.0,23.0,Real part,Complex Numbers,,21462
+2,1,1.0,159.0,Kernel,Linear Algebra,Linear Transformations,3178
+2,1,1.0,8.0,Square roots,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",14423
+2,2,1.0,23.0,Real part,Complex Numbers,,21571
+2,2,1.0,158.0,Matrix of a linear transformation,Linear Algebra,Linear Transformations,7286
+2,2,1.0,176.0,Optimal solution,Optimization,Nonlinear Optimization,18993
+1,2,1.0,177.0,Minimum,Optimization,Nonlinear Optimization,17027
+3,3,,72.0,Cartesian equations of a line,Analytic Geometry,,21720
+1,1,1.0,151.0,Basis,Linear Algebra,Vector Spaces,5596
+2,2,1.0,114.0,Matrix multiplication,Linear Algebra,Matrices and Determinants,20919
+5,4,1.0,159.0,Kernel,Linear Algebra,Linear Transformations,6437
+2,5,1.0,265.0,First order,Differentiation,Partial Differentiation,22895
+2,3,1.0,139.0,Consistent system,Linear Algebra,Linear Systems,1291
+2,2,1.0,114.0,Matrix multiplication,Linear Algebra,Matrices and Determinants,1453
+1,4,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",16661
+3,2,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,5545
+5,4,1.0,148.0,Span,Linear Algebra,Vector Spaces,3001
+4,5,1.0,42.0,Counting techniques,Probability ,,20458
+2,4,1.0,137.0,Square linear system,Linear Algebra,Linear Systems,8704
+3,3,1.0,81.0,Tree,Graph Theory,,18690
+5,4,1.0,148.0,Span,Linear Algebra,Vector Spaces,6569
+1,1,1.0,151.0,Basis,Linear Algebra,Vector Spaces,6651
+1,5,1.0,137.0,Square linear system,Linear Algebra,Linear Systems,2602
+2,1,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,4512
+3,4,1.0,24.0,Imaginary part,Complex Numbers,,21487
+1,1,1.0,222.0,Bisection method,Numerical Methods,,18179
+1,1,1.0,148.0,Span,Linear Algebra,Vector Spaces,4084
+1,1,1.0,16.0,Triangles,Fundamental Mathematics,,1424
+3,2,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,4898
+3,2,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",16136
+4,4,1.0,156.0,Linearity,Linear Algebra,Linear Transformations,6239
+4,4,1.0,224.0,Nonlinear equation,Numerical Methods,,8614
+3,2,1.0,13.0,Polyhedrons,Fundamental Mathematics,,9369
+5,4,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,7656
+2,4,1.0,5.0,Simplify expressions,Fundamental Mathematics,,1348
+1,1,1.0,16.0,Triangles,Fundamental Mathematics,,15887
+3,2,1.0,317.0,Rearranging equations,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",20090
+2,5,1.0,25.0,Modulus of a complex number,Complex Numbers,,21566
+3,2,1.0,5.0,Simplify expressions,Fundamental Mathematics,,1786
+1,1,1.0,340.0,Monotonicity of a function,Real Functions of a Single Variable,"Domain, Image and Graphics",11484
+4,2,1.0,2.0,Exponential function,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",702
+3,1,1.0,26.0,Conjugate number,Complex Numbers,,9246
+3,2,1.0,27.0,Polar representation,Complex Numbers,,21625
+1,4,1.0,3.0,Linear equations,Fundamental Mathematics,,1373
+1,4,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",14152
+2,1,1.0,103.0,Direct inspection,Integration,Integration Techniques,1562
+1,2,1.0,159.0,Kernel,Linear Algebra,Linear Transformations,3561
+3,3,1.0,140.0,Inconsistent system,Linear Algebra,,2558
+3,3,1.0,127.0,Eigenvalues,Linear Algebra,,2561
+5,4,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,5807
+1,2,1.0,156.0,Linearity,Linear Algebra,Linear Transformations,7537
+1,4,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",11121
+2,1,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",15801
+5,4,1.0,15.0,Polygons,Fundamental Mathematics,,9363
+3,3,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,5755
+2,2,1.0,114.0,Matrix multiplication,Linear Algebra,Matrices and Determinants,9838
+4,3,1.0,353.0,Three points rule,Numerical Methods,,18570
+3,4,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",11093
+1,1,1.0,148.0,Span,Linear Algebra,Vector Spaces,12121
+1,2,1.0,156.0,Linearity,Linear Algebra,Linear Transformations,5997
+4,2,1.0,269.0,Polynomial interpolation,Numerical Methods,,18022
+3,3,,157.0,Linear transformation,Linear Algebra,Linear Transformations,22581
+3,3,1.0,176.0,Optimal solution,Optimization,Nonlinear Optimization,16909
+2,1,1.0,156.0,Linearity,Linear Algebra,Linear Transformations,4215
+5,4,1.0,161.0,Injective linear transformation,Linear Algebra,Linear Transformations,22600
+3,2,1.0,269.0,Polynomial interpolation,Numerical Methods,,18176
+2,4,1.0,137.0,Square linear system,Linear Algebra,Linear Systems,10217
+5,2,1.0,167.0,Simplex method,Optimization,Linear Optimization,15205
+5,4,1.0,224.0,Nonlinear equation,Numerical Methods,,8610
+1,2,1.0,64.0,Scalar product,Analytic Geometry,,20396
+3,1,,141.0,Undetermined linear system,Linear Algebra,Linear Systems,22148
+3,3,1.0,64.0,Scalar product,Analytic Geometry,,11950
+3,4,1.0,85.0,Product rule,Differentiation,Derivatives,21731
+2,2,1.0,64.0,Scalar product,Analytic Geometry,,12832
+1,1,1.0,148.0,Span,Linear Algebra,Vector Spaces,6300
+3,2,1.0,146.0,Vector subspace,Linear Algebra,,9102
+2,1,1.0,114.0,Matrix multiplication,Linear Algebra,Matrices and Determinants,10515
+5,4,1.0,159.0,Kernel,Linear Algebra,,2947
+5,2,1.0,182.0,Limits,Real Functions of a Single Variable,Limits and Continuity,8841
+3,2,1.0,249.0,Fundamental theorem of Calculus,Integration,,12643
+1,1,1.0,148.0,Span,Linear Algebra,Vector Spaces,5519
+4,5,1.0,42.0,Counting techniques,Probability ,,14829
+4,2,1.0,116.0,Matrix operations,Linear Algebra,Matrices and Determinants,22647
+2,1,1.0,116.0,Matrix operations,Linear Algebra,Matrices and Determinants,14802
+4,3,1.0,177.0,Minimum,Optimization,Nonlinear Optimization,21816
+2,1,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",10172
+5,4,1.0,157.0,Linear transformation,Linear Algebra,Linear Transformations,7650
+3,2,1.0,191.0,Domain,Real Functions of a Single Variable,"Domain, Image and Graphics",8894
+2,4,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",16382
+2,2,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,4144
+5,4,1.0,43.0,Axioms of probability,Probability ,,15785
+1,1,1.0,222.0,Bisection method,Numerical Methods,,15626
+1,4,1.0,265.0,First order,Differentiation,Partial Differentiation,3353
+3,2,1.0,27.0,Polar representation,Complex Numbers,,273
+3,1,,176.0,Optimal solution,Optimization,Nonlinear Optimization,22490
+2,3,1.0,45.0,Sample,Statistics,,2119
+4,3,1.0,161.0,Injective linear transformation,Linear Algebra,Linear Transformations,7766
+5,3,1.0,202.0,Linear differential equation,Differential Equations,,8778
+4,1,1.0,99.0,Second order,Differentiation,Partial Differentiation,23078
+5,3,1.0,116.0,Matrix operations,Linear Algebra,Matrices and Determinants,19917
+1,1,1.0,148.0,Span,Linear Algebra,Vector Spaces,5184
+4,1,1.0,138.0,Solution of a linear system,Linear Algebra,Linear Systems,10362
+1,1,1.0,342.0,Surjectivity of a function,Real Functions of a Single Variable,"Domain, Image and Graphics",9918
+1,3,1.0,45.0,Sample,Statistics,,2154
+3,1,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",17800
+4,3,1.0,354.0,Five points rule,Numerical Methods,,15693
+2,2,1.0,268.0,Lagrange's interpolation,Numerical Methods,,17957
+2,5,1.0,23.0,Real part,Complex Numbers,,872
+5,4,1.0,159.0,Kernel,Linear Algebra,Linear Transformations,7643
+2,2,1.0,156.0,Linearity,Linear Algebra,Linear Transformations,7542
+1,4,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",15961
+4,4,1.0,269.0,Polynomial interpolation,Numerical Methods,,15447
+2,2,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,2911
+3,4,1.0,102.0,Integration by parts,Integration,Integration Techniques,12245
+4,3,1.0,19.0,Geometric transformations,Fundamental Mathematics,,1351
+1,1,1.0,222.0,Bisection method,Numerical Methods,,15281
+1,2,1.0,64.0,Scalar product,Analytic Geometry,,20270
+1,1,1.0,75.0,Simple graph,Graph Theory,,14930
+1,4,1.0,137.0,Square linear system,Linear Algebra,Linear Systems,2641
+2,3,1.0,35.0,Sample space,Probability ,,15781
+5,4,1.0,222.0,Bisection method,Numerical Methods,,8417
+4,4,1.0,127.0,Eigenvalues,Linear Algebra,Eigenvalues and Eigenvectors,22358
+2,4,1.0,140.0,Inconsistent system,Linear Algebra,Linear Systems,11071
+1,1,1.0,148.0,Span,Linear Algebra,Vector Spaces,3726
+2,1,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",16073
+2,2,1.0,132.0,Characteristic polynomial,Linear Algebra,Eigenvalues and Eigenvectors,11741
+2,2,1.0,114.0,Matrix multiplication,Linear Algebra,Matrices and Determinants,1631
+2,1,1.0,27.0,Polar representation,Complex Numbers,,21563
+3,2,1.0,158.0,Matrix of a linear transformation,Linear Algebra,,1499
+5,4,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,7687
+3,2,1.0,27.0,Polar representation,Complex Numbers,,21586
+4,3,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,6334
+4,6,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",20946
+4,3,1.0,127.0,Eigenvalues,Linear Algebra,Eigenvalues and Eigenvectors,11737
+1,5,1.0,24.0,Imaginary part,Complex Numbers,,21592
+3,2,1.0,151.0,Basis,Linear Algebra,Vector Spaces,6425
+1,2,1.0,64.0,Scalar product,Analytic Geometry,,19759
+3,4,1.0,85.0,Product rule,Differentiation,Derivatives,16634
+1,1,1.0,148.0,Span,Linear Algebra,Vector Spaces,3986
+3,1,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",1754
+1,3,1.0,45.0,Sample,Statistics,,2235
+1,1,1.0,269.0,Polynomial interpolation,Numerical Methods,,18450
+4,1,,202.0,Linear differential equation,Differential Equations,,21919
+4,3,1.0,269.0,Polynomial interpolation,Numerical Methods,,13235
+2,1,1.0,5.0,Simplify expressions,Fundamental Mathematics,,9439
+2,1,1.0,159.0,Kernel,Linear Algebra,Linear Transformations,4169
+4,4,1.0,127.0,Eigenvalues,Linear Algebra,Eigenvalues and Eigenvectors,301
+2,2,1.0,114.0,Matrix multiplication,Linear Algebra,,13738
+1,1,1.0,249.0,Fundamental theorem of Calculus,Integration,Definite Integrals,21675
+3,1,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",14228
+2,2,1.0,156.0,Linearity,Linear Algebra,Linear Transformations,6836
+2,1,1.0,25.0,Modulus of a complex number,Complex Numbers,,7968
+3,2,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",20698
+2,2,1.0,45.0,Sample,Statistics,,2299
+5,4,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,22659
+2,1,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",10686
+4,4,1.0,158.0,Matrix of a linear transformation,Linear Algebra,Linear Transformations,15044
+1,1,1.0,85.0,Product rule,Differentiation,Derivatives,20328
+1,4,1.0,317.0,Rearranging equations,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",20781
+5,3,1.0,202.0,Linear differential equation,Differential Equations,,21394
+4,4,1.0,176.0,Optimal solution,Optimization,Nonlinear Optimization,23182
+1,1,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,5082
+2,1,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,2732
+1,1,1.0,148.0,Span,Linear Algebra,Vector Spaces,3602
+1,4,1.0,3.0,Linear equations,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",17710
+4,4,1.0,19.0,Geometric transformations,Fundamental Mathematics,,17075
+2,4,1.0,3.0,Linear equations,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",14437
+4,6,1.0,3.0,Linear equations,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",21177
+4,3,1.0,352.0,Gauss-Seidel method,Numerical Methods,,15290
+1,5,1.0,137.0,Square linear system,Linear Algebra,Linear Systems,10355
+2,1,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,6162
+4,1,1.0,64.0,Scalar product,Analytic Geometry,,7616
+1,1,1.0,151.0,Basis,Linear Algebra,Vector Spaces,4595
+2,5,1.0,25.0,Modulus of a complex number,Complex Numbers,,11274
+4,1,1.0,108.0,Cartesian coordinates,Integration,Double Integration,20579
+1,2,1.0,156.0,Linearity,Linear Algebra,Linear Transformations,5868
+2,1,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,6671
+4,4,1.0,9.0,Geometrical figures,Fundamental Mathematics,,9309
+1,1,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,3830
+3,2,1.0,151.0,Basis,Linear Algebra,Vector Spaces,5290
+1,2,1.0,158.0,Matrix of a linear transformation,Linear Algebra,Linear Transformations,7826
+1,4,1.0,317.0,Rearranging equations,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",16327
+4,2,1.0,2.0,Exponential function,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",803
+2,5,1.0,137.0,Square linear system,Linear Algebra,Linear Systems,2787
+3,1,1.0,26.0,Conjugate number,Complex Numbers,,11493
+3,4,1.0,269.0,Polynomial interpolation,Numerical Methods,,13268
+1,2,1.0,156.0,Linearity,Linear Algebra,Linear Transformations,7577
+5,4,1.0,355.0,Simpson's rule,Numerical Methods,,8566
+4,3,1.0,353.0,Three points rule,Numerical Methods,,15338
+1,1,1.0,182.0,Limits,Real Functions of a Single Variable,Limits and Continuity,21951
+3,2,1.0,23.0,Real part,Complex Numbers,,889
+3,3,1.0,85.0,Product rule,Differentiation,Derivatives,20620
+4,4,1.0,115.0,Commuting matrices,Linear Algebra,Matrices and Determinants,10261
+3,3,1.0,176.0,Optimal solution,Optimization,Nonlinear Optimization,2310
+5,4,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,5802
+1,2,1.0,116.0,Matrix operations,Linear Algebra,Matrices and Determinants,9075
+2,4,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",9464
+1,1,1.0,88.0,Sum rule,Differentiation,Derivatives,14553
+5,3,1.0,359.0,Least squares method,Numerical Methods,,18480
+3,4,1.0,176.0,Optimal solution,Optimization,Nonlinear Optimization,2365
+2,2,1.0,158.0,Matrix of a linear transformation,Linear Algebra,Linear Transformations,6877
+4,3,1.0,159.0,Kernel,Linear Algebra,Linear Transformations,7036
+2,2,1.0,45.0,Sample,Statistics,,2148
+1,1,1.0,222.0,Bisection method,Numerical Methods,,13002
+3,1,1.0,166.0,Linear programming,Optimization,Linear Optimization,16826
+5,4,1.0,148.0,Span,Linear Algebra,Vector Spaces,5714
+4,3,1.0,177.0,Minimum,Optimization,Nonlinear Optimization,17261
+5,4,1.0,148.0,Span,Linear Algebra,Vector Spaces,3006
+3,4,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",15816
+4,4,1.0,114.0,Matrix multiplication,Linear Algebra,Matrices and Determinants,9071
+4,3,,146.0,Vector subspace,Linear Algebra,Vector Spaces,22522
+2,1,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",808
+5,4,1.0,115.0,Commuting matrices,Linear Algebra,Matrices and Determinants,21040
+1,5,1.0,24.0,Imaginary part,Complex Numbers,,21450
+5,4,1.0,157.0,Linear transformation,Linear Algebra,Linear Transformations,15079
+3,2,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,4507
+2,2,1.0,64.0,Scalar product,Analytic Geometry,,408
+5,1,1.0,72.0,Cartesian equations of a line,Analytic Geometry,,7618
+4,2,1.0,2.0,Exponential function,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",10471
+1,1,1.0,147.0,Linear combination,Linear Algebra,Vector Spaces,7409
+1,4,1.0,4.0,Quadratic equations,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",16377
+1,1,1.0,233.0,Limits,Real Functions of Several Variables,"Limits, Continuity, Domain and Image",22691
+5,6,1.0,30.0,Complex plane ,Complex Numbers,,270
+1,2,1.0,116.0,Matrix operations,Linear Algebra,Matrices and Determinants,20659
+5,4,1.0,158.0,Matrix of a linear transformation,Linear Algebra,Linear Transformations,7192
+2,2,1.0,156.0,Linearity,Linear Algebra,Linear Transformations,7280
+3,1,1.0,159.0,Kernel,Linear Algebra,Linear Transformations,6193
+4,4,1.0,127.0,Eigenvalues,Linear Algebra,Eigenvalues and Eigenvectors,9135
+4,3,1.0,30.0,Complex plane ,Complex Numbers,,1239
+2,2,1.0,54.0,Data type,Statistics,,2169
+2,1,1.0,24.0,Imaginary part,Complex Numbers,,561
+3,3,1.0,108.0,Cartesian coordinates,Integration,Double Integration,20574
+4,3,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,12087
+5,2,1.0,101.0,Substitution,Integration,Integration Techniques,1737
+3,1,1.0,226.0,Two variables,Differentiation,,15451
+2,1,1.0,8.0,Square roots,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",10661
+1,4,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",11141
+1,5,1.0,30.0,Complex plane ,Complex Numbers,,13416
+3,2,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,4585
+1,4,1.0,317.0,Rearranging equations,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",15936
+1,4,1.0,4.0,Quadratic equations,Fundamental Mathematics,,1347
+3,3,,156.0,Linearity,Linear Algebra,Linear Transformations,22601
+4,4,1.0,158.0,Matrix of a linear transformation,Linear Algebra,Linear Transformations,7697
+3,5,1.0,99.0,Second order,Differentiation,Partial Differentiation,22850
+3,2,1.0,158.0,Matrix of a linear transformation,Linear Algebra,Linear Transformations,7421
+4,2,1.0,128.0,Eigenvectors,Linear Algebra,,2516
+1,5,1.0,29.0,Nth root,Complex Numbers,,13425
+3,1,1.0,166.0,Linear programming,Optimization,Linear Optimization,23166
+1,2,1.0,159.0,Kernel,Linear Algebra,Linear Transformations,3481
+3,1,1.0,116.0,Matrix operations,Linear Algebra,Matrices and Determinants,8809
+2,4,1.0,139.0,Consistent system,Linear Algebra,Linear Systems,1451
+1,1,1.0,148.0,Span,Linear Algebra,Vector Spaces,3304
+3,2,1.0,45.0,Sample,Statistics,,10923
+2,1,1.0,268.0,Lagrange's interpolation,Numerical Methods,,13307
+4,2,1.0,351.0,Jacobi method,Numerical Methods,,13260
+5,1,1.0,97.0,Gradient,Differentiation,Partial Differentiation,22828
+3,1,1.0,114.0,Matrix multiplication,Linear Algebra,,11929
+5,3,1.0,119.0,Matrix condensation,Linear Algebra,Matrices and Determinants,13945
+3,2,1.0,151.0,Basis,Linear Algebra,Vector Spaces,5514
+5,3,1.0,116.0,Matrix operations,Linear Algebra,Matrices and Determinants,21314
+5,2,1.0,127.0,Eigenvalues,Linear Algebra,Eigenvalues and Eigenvectors,20720
+2,2,1.0,268.0,Lagrange's interpolation,Numerical Methods,,18009
+5,3,1.0,202.0,Linear differential equation,Differential Equations,,20464
+2,1,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",9621
+5,2,1.0,167.0,Simplex method,Optimization,Linear Optimization,21876
+4,1,1.0,69.0,Orthogonal projection,Analytic Geometry,,9916
+4,3,1.0,153.0,Euclidean spaces,Linear Algebra,Vector Spaces,7690
+2,2,1.0,15.0,Polygons,Fundamental Mathematics,,1984
+3,4,1.0,179.0,Feasible set,Optimization,Nonlinear Optimization,17552
+1,4,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",3297
+1,2,1.0,159.0,Kernel,Linear Algebra,,2809
+3,5,1.0,265.0,First order,Differentiation,Partial Differentiation,22908
+3,3,1.0,139.0,Consistent system,Linear Algebra,Linear Systems,10506
+5,3,1.0,121.0,Inverse of a matrix ,Linear Algebra,Matrices and Determinants,20731
+2,3,1.0,8.0,Square roots,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",16044
+1,2,1.0,177.0,Minimum,Optimization,Nonlinear Optimization,17482
+3,3,1.0,20.0,Symmetry,Fundamental Mathematics,Elementary Geometry,19274
+4,1,1.0,2.0,Exponential function,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",11140
+5,3,1.0,24.0,Imaginary part,Complex Numbers,,10067
+2,5,1.0,38.0,Independence,Probability ,,17836
+2,1,,116.0,Matrix operations,Linear Algebra,Matrices and Determinants,22132
+5,4,1.0,353.0,Three points rule,Numerical Methods,,15634
+4,2,1.0,116.0,Matrix operations,Linear Algebra,Matrices and Determinants,13932
+3,1,1.0,249.0,Fundamental theorem of Calculus,Integration,Definite Integrals,10040
+1,4,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",9808
+3,2,1.0,151.0,Basis,Linear Algebra,Vector Spaces,6246
+4,6,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",1776
+1,2,1.0,156.0,Linearity,Linear Algebra,Linear Transformations,6902
+1,4,1.0,317.0,Rearranging equations,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",15963
+4,3,,116.0,Matrix operations,Linear Algebra,Matrices and Determinants,21690
+2,1,1.0,85.0,Product rule,Differentiation,Derivatives,11167
+2,2,1.0,114.0,Matrix multiplication,Linear Algebra,,2488
+5,4,1.0,116.0,Matrix operations,Linear Algebra,Matrices and Determinants,21399
+5,4,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,2991
+2,4,1.0,140.0,Inconsistent system,Linear Algebra,,10889
+2,3,1.0,1.0,Trigonometric functions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",21174
+4,3,1.0,269.0,Polynomial interpolation,Numerical Methods,,17861
+3,2,1.0,45.0,Sample,Statistics,,11370
+2,1,1.0,156.0,Linearity,Linear Algebra,Linear Transformations,7548
+1,1,1.0,148.0,Span,Linear Algebra,Vector Spaces,4575
+1,5,1.0,137.0,Square linear system,Linear Algebra,Linear Systems,16535
+4,6,1.0,3.0,Linear equations,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",21163
+1,2,1.0,159.0,Kernel,Linear Algebra,Linear Transformations,7707
+4,1,1.0,97.0,Gradient,Differentiation,Partial Differentiation,5602
+3,2,1.0,54.0,Data type,Statistics,,11758
+3,1,1.0,167.0,Simplex method,Optimization,Linear Optimization,22273
+2,5,1.0,97.0,Gradient,Differentiation,Partial Differentiation,3420
+1,2,1.0,64.0,Scalar product,Analytic Geometry,,21386
+1,5,1.0,24.0,Imaginary part,Complex Numbers,,890
+1,2,1.0,64.0,Scalar product,Analytic Geometry,,7932
+1,1,1.0,103.0,Direct inspection,Integration,Integration Techniques,1553
+5,2,1.0,137.0,Square linear system,Linear Algebra,Linear Systems,15034
+1,1,1.0,148.0,Span,Linear Algebra,Vector Spaces,4854
+1,4,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",13877
+1,4,1.0,3.0,Linear equations,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",14188
+1,1,1.0,88.0,Sum rule,Differentiation,Derivatives,11051
+5,3,1.0,339.0,Periodicity of a function,Real Functions of a Single Variable,"Domain, Image and Graphics",11004
+5,3,1.0,121.0,Inverse of a matrix ,Linear Algebra,Matrices and Determinants,1006
+5,4,1.0,17.0,Quadrilaterals,Fundamental Mathematics,,1746
+2,4,1.0,284.0,Complement of a set,Discrete Mathematics,Set Theory,17624
+2,2,1.0,176.0,Optimal solution,Optimization,Nonlinear Optimization,16999
+1,1,1.0,148.0,Span,Linear Algebra,Vector Spaces,3858
+3,2,1.0,158.0,Matrix of a linear transformation,Linear Algebra,Linear Transformations,4154
+4,3,1.0,148.0,Span,Linear Algebra,Vector Spaces,22226
+1,1,1.0,249.0,Fundamental theorem of Calculus,Integration,Definite Integrals,21912
+3,4,1.0,356.0,Trapezoidal rule,Numerical Methods,,18003
+3,3,1.0,223.0,Newton?s method,Numerical Methods,,18073
+4,3,1.0,161.0,Injective linear transformation,Linear Algebra,Linear Transformations,6076
+4,2,1.0,99.0,Second order,Differentiation,Partial Differentiation,23039
+3,1,1.0,127.0,Eigenvalues,Linear Algebra,Eigenvalues and Eigenvectors,9192
+4,3,1.0,137.0,Square linear system,Linear Algebra,Linear Systems,2716
+3,1,1.0,114.0,Matrix multiplication,Linear Algebra,Matrices and Determinants,21309
+1,2,1.0,115.0,Commuting matrices,Linear Algebra,Matrices and Determinants,10495
+1,2,1.0,65.0,Cross product,Analytic Geometry,,1535
+2,2,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,3252
+1,1,1.0,148.0,Span,Linear Algebra,Vector Spaces,4085
+1,3,1.0,99.0,Second order,Differentiation,Partial Differentiation,22738
+5,4,1.0,159.0,Kernel,Linear Algebra,Linear Transformations,22353
+2,1,1.0,8.0,Square roots,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",16002
+3,2,1.0,269.0,Polynomial interpolation,Numerical Methods,,13205
+4,4,1.0,129.0,Spectrum,Linear Algebra,Eigenvalues and Eigenvectors,12095
+3,1,1.0,114.0,Matrix multiplication,Linear Algebra,Matrices and Determinants,23239
+1,1,1.0,147.0,Linear combination,Linear Algebra,Vector Spaces,4133
+1,5,1.0,24.0,Imaginary part,Complex Numbers,,20100
+1,2,1.0,176.0,Optimal solution,Optimization,Nonlinear Optimization,2309
+1,4,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",10674
+3,4,1.0,24.0,Imaginary part,Complex Numbers,,21594
+3,1,1.0,121.0,Inverse of a matrix ,Linear Algebra,Matrices and Determinants,14910
+3,1,1.0,114.0,Matrix multiplication,Linear Algebra,Matrices and Determinants,1456
+5,4,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,12083
+3,2,1.0,177.0,Minimum,Optimization,Nonlinear Optimization,21813
+3,3,1.0,16.0,Triangles,Fundamental Mathematics,,1396
+1,1,1.0,148.0,Span,Linear Algebra,Vector Spaces,6863
+5,2,1.0,139.0,Consistent system,Linear Algebra,Linear Systems,22409
+1,1,1.0,103.0,Direct inspection,Integration,Integration Techniques,12246
+1,1,1.0,103.0,Direct inspection,Integration,Integration Techniques,14789
+1,2,1.0,159.0,Kernel,Linear Algebra,Linear Transformations,6134
+4,1,1.0,137.0,Square linear system,Linear Algebra,Linear Systems,22407
+4,5,1.0,42.0,Counting techniques,Probability ,,722
+2,4,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",700
+2,1,1.0,85.0,Product rule,Differentiation,,20299
+3,2,1.0,27.0,Polar representation,Complex Numbers,,11999
+3,1,1.0,161.0,Injective linear transformation,Linear Algebra,Linear Transformations,22669
+3,1,1.0,223.0,Newton?s method,Numerical Methods,,8608
+1,5,1.0,29.0,Nth root,Complex Numbers,,21453
+4,1,1.0,64.0,Scalar product,Analytic Geometry,,12803
+2,1,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,5291
+3,1,1.0,139.0,Consistent system,Linear Algebra,Linear Systems,11651
+5,1,1.0,72.0,Cartesian equations of a line,Analytic Geometry,,2750
+2,2,1.0,45.0,Sample,Statistics,,12555
+1,2,1.0,176.0,Optimal solution,Optimization,Nonlinear Optimization,17467
+1,4,1.0,317.0,Rearranging equations,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",14356
+4,1,1.0,99.0,Second order,Differentiation,Partial Differentiation,23050
+2,1,1.0,193.0,Image of a function,Real Functions of a Single Variable,"Domain, Image and Graphics",6565
+3,2,1.0,158.0,Matrix of a linear transformation,Linear Algebra,Linear Transformations,5116
+4,4,1.0,115.0,Commuting matrices,Linear Algebra,Matrices and Determinants,9969
+1,1,1.0,269.0,Polynomial interpolation,Numerical Methods,,18083
+1,2,1.0,159.0,Kernel,Linear Algebra,Linear Transformations,6944
+4,2,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,6605
+4,2,1.0,2.0,Exponential function,Fundamental Mathematics,,17076
+1,4,1.0,265.0,First order,Differentiation,Partial Differentiation,5590
+1,4,1.0,3.0,Linear equations,Fundamental Mathematics,,10476
+5,1,1.0,97.0,Gradient,Differentiation,Partial Differentiation,3325
+4,3,1.0,159.0,Kernel,Linear Algebra,Linear Transformations,6986
+5,4,1.0,115.0,Commuting matrices,Linear Algebra,Matrices and Determinants,1677
+2,1,1.0,322.0,Trace of a matrix,Linear Algebra,Eigenvalues and Eigenvectors,3236
+1,1,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,5056
+5,4,1.0,159.0,Kernel,Linear Algebra,Linear Transformations,22240
+3,2,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,3248
+5,4,1.0,158.0,Matrix of a linear transformation,Linear Algebra,Linear Transformations,7235
+1,4,1.0,3.0,Linear equations,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",16316
+3,1,1.0,117.0,Matrix equation,Linear Algebra,Matrices and Determinants,13799
+3,1,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",9645
+5,5,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",1779
+5,1,1.0,65.0,Cross product,Analytic Geometry,,284
+2,1,1.0,159.0,Kernel,Linear Algebra,Linear Transformations,6131
+4,2,1.0,269.0,Polynomial interpolation,Numerical Methods,,15511
+4,3,,146.0,Vector subspace,Linear Algebra,Vector Spaces,22633
+1,5,1.0,24.0,Imaginary part,Complex Numbers,,16617
+2,1,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,5024
+3,2,1.0,269.0,Polynomial interpolation,Numerical Methods,,13310
+4,3,1.0,353.0,Three points rule,Numerical Methods,,15358
+2,5,1.0,137.0,Square linear system,Linear Algebra,Linear Systems,10209
+5,1,1.0,66.0,Orthogonality,Analytic Geometry,,14967
+1,2,1.0,156.0,Linearity,Linear Algebra,Linear Transformations,5377
+5,4,1.0,161.0,Injective linear transformation,Linear Algebra,Linear Transformations,7737
+3,5,1.0,42.0,Counting techniques,Probability ,,725
+4,2,1.0,182.0,Limits,Real Functions of a Single Variable,Limits and Continuity,8939
+2,3,1.0,5.0,Simplify expressions,Fundamental Mathematics,,15974
+1,2,1.0,177.0,Minimum,Optimization,Nonlinear Optimization,18922
+5,4,1.0,359.0,Least squares method,Numerical Methods,,18205
+1,1,1.0,151.0,Basis,Linear Algebra,,9490
+3,1,1.0,127.0,Eigenvalues,Linear Algebra,Eigenvalues and Eigenvectors,306
+3,3,1.0,81.0,Tree,Graph Theory,,14935
+2,1,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,5771
+1,3,1.0,166.0,Linear programming,Optimization,Linear Optimization,12559
+2,1,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",14194
+4,3,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,5672
+4,5,1.0,178.0,Maximum,Optimization,Nonlinear Optimization,17179
+5,5,1.0,58.0,Hypothesis testing,Statistics,,13557
+4,3,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,6808
+4,1,1.0,156.0,Linearity,Linear Algebra,Linear Transformations,6639
+5,2,1.0,362.0,Contour map,Real Functions of Several Variables,"Limits, Continuity, Domain and Image",22695
+1,1,1.0,148.0,Span,Linear Algebra,Vector Spaces,2594
+3,1,1.0,114.0,Matrix multiplication,Linear Algebra,Matrices and Determinants,11238
+5,1,1.0,97.0,Gradient,Differentiation,Partial Differentiation,11061
+2,2,1.0,114.0,Matrix multiplication,Linear Algebra,Matrices and Determinants,11547
+3,2,1.0,151.0,Basis,Linear Algebra,Vector Spaces,4659
+1,4,1.0,3.0,Linear equations,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",10117
+3,3,1.0,16.0,Triangles,Fundamental Mathematics,,14451
+1,2,1.0,159.0,Kernel,Linear Algebra,Linear Transformations,5390
+2,3,1.0,75.0,Simple graph,Graph Theory,,19769
+1,1,1.0,148.0,Span,Linear Algebra,Vector Spaces,3895
+4,2,1.0,2.0,Exponential function,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",17787
+3,4,1.0,25.0,Modulus of a complex number,Complex Numbers,,778
+4,3,1.0,353.0,Three points rule,Numerical Methods,,18029
+2,2,1.0,64.0,Scalar product,Analytic Geometry,,19926
+4,2,1.0,351.0,Jacobi method,Numerical Methods,,18605
+3,1,1.0,121.0,Inverse of a matrix ,Linear Algebra,Matrices and Determinants,11960
+2,1,1.0,8.0,Square roots,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",15959
+1,4,1.0,3.0,Linear equations,Fundamental Mathematics,,9448
+3,4,1.0,179.0,Feasible set,Optimization,Nonlinear Optimization,17124
+3,2,1.0,23.0,Real part,Complex Numbers,,8183
+1,4,1.0,265.0,First order,Differentiation,Partial Differentiation,11060
+2,1,1.0,295.0,Definition,Integration,Surface Integrals,20898
+3,4,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",15847
+3,2,1.0,127.0,Eigenvalues,Linear Algebra,Eigenvalues and Eigenvectors,11728
+1,2,1.0,115.0,Commuting matrices,Linear Algebra,Matrices and Determinants,10578
+3,2,1.0,158.0,Matrix of a linear transformation,Linear Algebra,Linear Transformations,3821
+4,4,1.0,129.0,Spectrum,Linear Algebra,Eigenvalues and Eigenvectors,8658
+1,3,1.0,45.0,Sample,Statistics,,2307
+1,1,1.0,148.0,Span,Linear Algebra,Vector Spaces,4265
+1,1,1.0,182.0,Limits,Real Functions of a Single Variable,Limits and Continuity,16422
+1,2,1.0,64.0,Scalar product,Analytic Geometry,,19755
+2,2,,23.0,Real part,Complex Numbers,,21724
+3,2,1.0,202.0,Linear differential equation,Differential Equations,,19977
+4,4,1.0,115.0,Commuting matrices,Linear Algebra,Matrices and Determinants,10951
+3,1,1.0,114.0,Matrix multiplication,Linear Algebra,Matrices and Determinants,14913
+5,4,1.0,306.0,Surface area,Fundamental Mathematics,,9629
+1,2,1.0,177.0,Minimum,Optimization,Nonlinear Optimization,16934
+2,2,1.0,114.0,Matrix multiplication,Linear Algebra,Matrices and Determinants,9761
+2,2,1.0,176.0,Optimal solution,Optimization,Nonlinear Optimization,16940
+3,1,1.0,114.0,Matrix multiplication,Linear Algebra,Matrices and Determinants,1043
+3,2,1.0,24.0,Imaginary part,Complex Numbers,,8130
+1,4,1.0,317.0,Rearranging equations,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",10127
+1,1,1.0,148.0,Span,Linear Algebra,Vector Spaces,3841
+4,4,1.0,176.0,Optimal solution,Optimization,Nonlinear Optimization,22878
+3,5,1.0,265.0,First order,Differentiation,Partial Differentiation,3333
+3,4,1.0,26.0,Conjugate number,Complex Numbers,,1527
+2,4,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",14292
+5,4,1.0,222.0,Bisection method,Numerical Methods,,8542
+4,3,1.0,182.0,Limits,Real Functions of a Single Variable,,718
+4,1,1.0,138.0,Solution of a linear system,Linear Algebra,Linear Systems,2606
+3,1,1.0,167.0,Simplex method,Optimization,Linear Optimization,13772
+1,1,1.0,148.0,Span,Linear Algebra,Vector Spaces,3600
+4,4,1.0,118.0,Rank,Linear Algebra,Matrices and Determinants,11569
+3,3,1.0,137.0,Square linear system,Linear Algebra,Linear Systems,1696
+1,1,1.0,16.0,Triangles,Fundamental Mathematics,,9526
+1,1,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,5042
+4,3,1.0,159.0,Kernel,Linear Algebra,Linear Transformations,12379
+4,3,1.0,161.0,Injective linear transformation,Linear Algebra,Linear Transformations,6003
+3,4,1.0,103.0,Direct inspection,Integration,Integration Techniques,10814
+2,5,1.0,137.0,Square linear system,Linear Algebra,Linear Systems,2639
+4,3,1.0,105.0,Rational functions,Integration,Integration Techniques,9694
+2,3,1.0,75.0,Simple graph,Graph Theory,,19775
+1,4,1.0,317.0,Rearranging equations,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",16285
+5,3,1.0,116.0,Matrix operations,Linear Algebra,Matrices and Determinants,20914
+3,3,1.0,85.0,Product rule,Differentiation,,20278
+3,2,1.0,202.0,Linear differential equation,Differential Equations,,8315
+5,4,1.0,158.0,Matrix of a linear transformation,Linear Algebra,Linear Transformations,7270
+3,3,1.0,85.0,Product rule,Differentiation,Derivatives,12252
+2,5,1.0,35.0,Sample space,Probability ,,20194
+3,4,1.0,85.0,Product rule,Differentiation,,8174
+4,3,1.0,137.0,Square linear system,Linear Algebra,,1269
+2,2,1.0,66.0,Orthogonality,Analytic Geometry,,8730
+5,6,1.0,23.0,Real part,Complex Numbers,,8136
+2,2,1.0,114.0,Matrix multiplication,Linear Algebra,Matrices and Determinants,22525
+3,3,1.0,127.0,Eigenvalues,Linear Algebra,Eigenvalues and Eigenvectors,11031
+5,5,1.0,55.0,Quantile,Statistics,,2185
+5,4,1.0,159.0,Kernel,Linear Algebra,Linear Transformations,12382
+4,3,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,5747
+2,4,1.0,85.0,Product rule,Differentiation,Derivatives,14367
+3,4,1.0,177.0,Minimum,Optimization,Nonlinear Optimization,21769
+2,4,1.0,137.0,Square linear system,Linear Algebra,Linear Systems,15023
+3,1,1.0,117.0,Matrix equation,Linear Algebra,,1027
+3,4,1.0,103.0,Direct inspection,Integration,Integration Techniques,14794
+3,2,1.0,151.0,Basis,Linear Algebra,Vector Spaces,4870
+2,5,1.0,33.0,Operations with complex numbers,Complex Numbers,,920
+4,1,1.0,202.0,Linear differential equation,Differential Equations,,23121
+2,4,1.0,3.0,Linear equations,Fundamental Mathematics,,9525
+2,1,1.0,356.0,Trapezoidal rule,Numerical Methods,,13300
+4,1,1.0,121.0,Inverse of a matrix ,Linear Algebra,Matrices and Determinants,20682
+5,2,1.0,101.0,Substitution,Integration,Integration Techniques,1740
+4,2,1.0,182.0,Limits,Real Functions of a Single Variable,Limits and Continuity,8906
+3,2,1.0,151.0,Basis,Linear Algebra,Vector Spaces,5041
+4,3,1.0,137.0,Square linear system,Linear Algebra,Linear Systems,11474
+4,2,1.0,2.0,Exponential function,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",14769
+1,2,1.0,177.0,Minimum,Optimization,Nonlinear Optimization,19304
+3,1,1.0,161.0,Injective linear transformation,Linear Algebra,Linear Transformations,7859
+2,1,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,6137
+3,2,1.0,27.0,Polar representation,Complex Numbers,,10883
+2,1,1.0,222.0,Bisection method,Numerical Methods,,13317
+1,1,1.0,103.0,Direct inspection,Integration,Integration Techniques,14721
+2,2,1.0,114.0,Matrix multiplication,Linear Algebra,Matrices and Determinants,10002
+2,1,1.0,114.0,Matrix multiplication,Linear Algebra,Matrices and Determinants,19103
+2,2,1.0,45.0,Sample,Statistics,,2262
+4,2,1.0,166.0,Linear programming,Optimization,Linear Optimization,12483
+4,2,1.0,353.0,Three points rule,Numerical Methods,,9239
+1,5,1.0,137.0,Square linear system,Linear Algebra,Linear Systems,2468
+5,2,1.0,127.0,Eigenvalues,Linear Algebra,Eigenvalues and Eigenvectors,3225
+4,3,1.0,65.0,Cross product,Analytic Geometry,,20449
+2,4,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",15425
+2,2,1.0,23.0,Real part,Complex Numbers,,21506
+5,3,1.0,64.0,Scalar product,Analytic Geometry,,20757
+3,2,1.0,27.0,Polar representation,Complex Numbers,,11685
+1,5,1.0,137.0,Square linear system,Linear Algebra,Linear Systems,10973
+2,4,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",9571
+3,3,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,6734
+3,2,1.0,151.0,Basis,Linear Algebra,Vector Spaces,7407
+1,2,1.0,159.0,Kernel,Linear Algebra,Linear Transformations,7342
+3,2,1.0,249.0,Fundamental theorem of Calculus,Integration,Definite Integrals,12273
+1,2,1.0,159.0,Kernel,Linear Algebra,Linear Transformations,7541
+4,4,1.0,114.0,Matrix multiplication,Linear Algebra,,11125
+1,1,1.0,148.0,Span,Linear Algebra,Vector Spaces,3102
+4,1,1.0,2.0,Exponential function,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",16200
+1,1,1.0,151.0,Basis,Linear Algebra,Vector Spaces,4539
+5,4,1.0,158.0,Matrix of a linear transformation,Linear Algebra,Linear Transformations,7160
+1,5,1.0,137.0,Square linear system,Linear Algebra,Linear Systems,2798
+1,2,1.0,118.0,Rank,Linear Algebra,Matrices and Determinants,9749
+5,4,1.0,157.0,Linear transformation,Linear Algebra,Linear Transformations,11994
+4,4,1.0,31.0,Trigonometric form,Complex Numbers,,772
+4,3,1.0,14.0,Platonic solids,Fundamental Mathematics,,599
+3,2,1.0,146.0,Vector subspace,Linear Algebra,,1412
+4,2,1.0,269.0,Polynomial interpolation,Numerical Methods,,18061
+2,1,1.0,159.0,Kernel,Linear Algebra,Linear Transformations,3788
+5,2,1.0,101.0,Substitution,Integration,Integration Techniques,9699
+2,1,1.0,268.0,Lagrange's interpolation,Numerical Methods,,15498
+5,4,1.0,157.0,Linear transformation,Linear Algebra,Linear Transformations,6981
+2,2,1.0,156.0,Linearity,Linear Algebra,Linear Transformations,4462
+4,4,,157.0,Linear transformation,Linear Algebra,Linear Transformations,22368
+3,2,1.0,151.0,Basis,Linear Algebra,Vector Spaces,3852
+1,1,1.0,151.0,Basis,Linear Algebra,Vector Spaces,5019
+4,3,1.0,351.0,Jacobi method,Numerical Methods,,13901
+4,3,1.0,269.0,Polynomial interpolation,Numerical Methods,,8620
+5,6,1.0,30.0,Complex plane ,Complex Numbers,,21547
+5,4,1.0,159.0,Kernel,Linear Algebra,Linear Transformations,5928
+1,2,1.0,177.0,Minimum,Optimization,Nonlinear Optimization,19313
+5,4,1.0,359.0,Least squares method,Numerical Methods,,13292
+3,2,1.0,177.0,Minimum,Optimization,Nonlinear Optimization,17004
+3,2,1.0,151.0,Basis,Linear Algebra,Vector Spaces,12131
+2,4,1.0,254.0, Trigonometric functions,Integration,Definite Integrals,10931
+5,4,1.0,353.0,Three points rule,Numerical Methods,,8607
+3,4,1.0,177.0,Minimum,Optimization,Nonlinear Optimization,16888
+2,3,1.0,8.0,Square roots,Fundamental Mathematics,,332
+4,3,,116.0,Matrix operations,Linear Algebra,Matrices and Determinants,22419
+2,2,1.0,114.0,Matrix multiplication,Linear Algebra,Matrices and Determinants,9407
+5,1,1.0,38.0,Independence,Probability ,,1079
+5,4,1.0,159.0,Kernel,Linear Algebra,Linear Transformations,7177
+1,1,1.0,340.0,Monotonicity of a function,Real Functions of a Single Variable,"Domain, Image and Graphics",6516
+3,2,1.0,23.0,Real part,Complex Numbers,,321
+2,1,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,6846
+2,5,1.0,97.0,Gradient,Differentiation,Partial Differentiation,22839
+3,1,1.0,159.0,Kernel,Linear Algebra,Linear Transformations,4018
+3,4,1.0,356.0,Trapezoidal rule,Numerical Methods,,15651
+1,4,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",9703
+4,1,1.0,176.0,Optimal solution,Optimization,Nonlinear Optimization,17263
+4,6,1.0,319.0,Solution range,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",21974
+1,2,1.0,115.0,Commuting matrices,Linear Algebra,Matrices and Determinants,10517
+2,1,1.0,8.0,Square roots,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",14293
+2,1,1.0,24.0,Imaginary part,Complex Numbers,,11870
+2,2,1.0,156.0,Linearity,Linear Algebra,Linear Transformations,7297
+2,1,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,5476
+3,3,1.0,224.0,Nonlinear equation,Numerical Methods,,8616
+3,2,1.0,151.0,Basis,Linear Algebra,Vector Spaces,5053
+1,2,1.0,156.0,Linearity,Linear Algebra,Linear Transformations,7357
+1,1,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,3257
+4,3,1.0,103.0,Direct inspection,Integration,Integration Techniques,21658
+4,3,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,5715
+3,2,1.0,182.0,Limits,Real Functions of a Single Variable,Limits and Continuity,16219
+1,2,1.0,156.0,Linearity,Linear Algebra,Linear Transformations,4409
+1,4,1.0,265.0,First order,Differentiation,Partial Differentiation,22810
+2,3,1.0,137.0,Square linear system,Linear Algebra,Linear Systems,1697
+2,5,1.0,137.0,Square linear system,Linear Algebra,Linear Systems,5969
+3,1,1.0,156.0,Linearity,Linear Algebra,Linear Transformations,7047
+3,3,1.0,223.0,Newton?s method,Numerical Methods,,18238
+4,2,1.0,116.0,Matrix operations,Linear Algebra,Matrices and Determinants,14874
+4,1,1.0,72.0,Cartesian equations of a line,Analytic Geometry,,287
+1,4,1.0,265.0,First order,Differentiation,,17511
+3,1,1.0,127.0,Eigenvalues,Linear Algebra,Eigenvalues and Eigenvectors,8055
+2,4,1.0,249.0,Fundamental theorem of Calculus,Integration,Definite Integrals,12637
+2,5,1.0,137.0,Square linear system,Linear Algebra,Linear Systems,13807
+5,6,1.0,26.0,Conjugate number,Complex Numbers,,1526
+3,1,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",17722
+3,2,1.0,23.0,Real part,Complex Numbers,,14936
+2,1,1.0,356.0,Trapezoidal rule,Numerical Methods,,18433
+2,1,1.0,356.0,Trapezoidal rule,Numerical Methods,,18577
+1,5,1.0,137.0,Square linear system,Linear Algebra,Linear Systems,11117
+3,2,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,4258
+3,3,1.0,127.0,Eigenvalues,Linear Algebra,Eigenvalues and Eigenvectors,9191
+5,3,1.0,114.0,Matrix multiplication,Linear Algebra,Matrices and Determinants,1676
+3,2,1.0,151.0,Basis,Linear Algebra,Vector Spaces,4291
+5,3,1.0,223.0,Newton?s method,Numerical Methods,,13270
+1,2,1.0,177.0,Minimum,Optimization,Nonlinear Optimization,16933
+4,3,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,22223
+1,1,1.0,269.0,Polynomial interpolation,Numerical Methods,,17885
+3,2,1.0,151.0,Basis,Linear Algebra,Vector Spaces,3040
+2,3,1.0,137.0,Square linear system,Linear Algebra,Linear Systems,9146
+5,6,1.0,26.0,Conjugate number,Complex Numbers,,9183
+3,1,1.0,127.0,Eigenvalues,Linear Algebra,Eigenvalues and Eigenvectors,11823
+5,4,1.0,115.0,Commuting matrices,Linear Algebra,Matrices and Determinants,21149
+5,6,1.0,26.0,Conjugate number,Complex Numbers,,1235
+5,4,1.0,224.0,Nonlinear equation,Numerical Methods,,8567
+3,3,1.0,45.0,Sample,Statistics,,2056
+2,2,1.0,64.0,Scalar product,Analytic Geometry,,20409
+1,2,1.0,156.0,Linearity,Linear Algebra,Linear Transformations,3665
+1,3,1.0,166.0,Linear programming,Optimization,,17161
+2,2,1.0,114.0,Matrix multiplication,Linear Algebra,Matrices and Determinants,12325
+2,1,1.0,191.0,Domain,Real Functions of a Single Variable,"Domain, Image and Graphics",9920
+2,1,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",9743
+1,1,1.0,75.0,Simple graph,Graph Theory,,15477
+4,3,1.0,64.0,Scalar product,Analytic Geometry,,21674
+2,5,1.0,33.0,Operations with complex numbers,Complex Numbers,,11855
+1,5,1.0,24.0,Imaginary part,Complex Numbers,,10081
+4,3,1.0,177.0,Minimum,Optimization,Nonlinear Optimization,17207
+5,6,1.0,23.0,Real part,Complex Numbers,,21084
+2,4,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",16320
+2,2,1.0,176.0,Optimal solution,Optimization,Nonlinear Optimization,21804
+2,1,1.0,146.0,Vector subspace,Linear Algebra,,2396
+1,3,1.0,43.0,Axioms of probability,Probability ,,16650
+4,3,1.0,250.0,Direct integrals ,Integration,Definite Integrals,12267
+2,5,1.0,97.0,Gradient,Differentiation,Partial Differentiation,11056
+1,1,1.0,269.0,Polynomial interpolation,Numerical Methods,,13166
+5,6,1.0,23.0,Real part,Complex Numbers,,21616
+3,3,1.0,70.0,Distance,Analytic Geometry,,9056
+3,2,1.0,268.0,Lagrange's interpolation,Numerical Methods,,15336
+1,1,1.0,147.0,Linear combination,Linear Algebra,Vector Spaces,4506
+1,1,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,4593
+3,2,1.0,151.0,Basis,Linear Algebra,Vector Spaces,7305
+3,4,1.0,269.0,Polynomial interpolation,Numerical Methods,,13327
+3,4,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",16544
+2,2,1.0,10.0,Geometric solids,Fundamental Mathematics,,9346
+5,1,1.0,176.0,Optimal solution,Optimization,Nonlinear Optimization,17142
+2,5,1.0,35.0,Sample space,Probability ,,16733
+5,2,1.0,103.0,Direct inspection,Integration,Integration Techniques,9015
+1,2,1.0,156.0,Linearity,Linear Algebra,Linear Transformations,4214
+3,3,1.0,223.0,Newton?s method,Numerical Methods,,15246
+2,4,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",1756
+4,3,1.0,72.0,Cartesian equations of a line,Analytic Geometry,,14957
+3,2,1.0,191.0,Domain,Real Functions of a Single Variable,"Domain, Image and Graphics",11010
+3,1,1.0,114.0,Matrix multiplication,Linear Algebra,Matrices and Determinants,14037
+1,1,1.0,85.0,Product rule,Differentiation,Derivatives,341
+2,2,1.0,9.0,Geometrical figures,Fundamental Mathematics,,14616
+4,3,1.0,161.0,Injective linear transformation,Linear Algebra,Linear Transformations,7743
+1,1,1.0,231.0,Domain,Real Functions of Several Variables,,7882
+3,2,1.0,81.0,Tree,Graph Theory,,23221
+3,4,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",16026
+4,4,1.0,269.0,Polynomial interpolation,Numerical Methods,,18268
+3,4,1.0,25.0,Modulus of a complex number,Complex Numbers,,750
+4,4,1.0,158.0,Matrix of a linear transformation,Linear Algebra,Linear Transformations,7175
+1,4,1.0,3.0,Linear equations,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",10155
+2,5,1.0,33.0,Operations with complex numbers,Complex Numbers,,320
+1,1,1.0,148.0,Span,Linear Algebra,Vector Spaces,3676
+4,3,1.0,13.0,Polyhedrons,Fundamental Mathematics,,16740
+3,3,1.0,35.0,Sample space,Probability ,,265
+3,4,1.0,177.0,Minimum,Optimization,Nonlinear Optimization,21847
+2,1,1.0,222.0,Bisection method,Numerical Methods,,18098
+4,1,1.0,156.0,Linearity,Linear Algebra,Linear Transformations,7403
+1,4,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",17785
+3,1,1.0,114.0,Matrix multiplication,Linear Algebra,Matrices and Determinants,10447
+4,2,1.0,116.0,Matrix operations,Linear Algebra,Matrices and Determinants,14276
+2,5,1.0,137.0,Square linear system,Linear Algebra,Linear Systems,15025
+3,3,1.0,85.0,Product rule,Differentiation,Derivatives,1940
+1,2,1.0,156.0,Linearity,Linear Algebra,Linear Transformations,7844
+5,3,1.0,115.0,Commuting matrices,Linear Algebra,Matrices and Determinants,13943
+3,1,1.0,114.0,Matrix multiplication,Linear Algebra,Matrices and Determinants,11938
+2,3,1.0,177.0,Minimum,Optimization,Nonlinear Optimization,17022
+2,3,1.0,8.0,Square roots,Fundamental Mathematics,,9325
+3,1,1.0,182.0,Limits,Real Functions of a Single Variable,,8569
+3,3,1.0,35.0,Sample space,Probability ,,21000
+4,5,1.0,177.0,Minimum,Optimization,Nonlinear Optimization,21834
+3,2,1.0,151.0,Basis,Linear Algebra,Vector Spaces,4353
+2,4,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",14378
+5,1,1.0,97.0,Gradient,Differentiation,Partial Differentiation,23005
+2,2,1.0,114.0,Matrix multiplication,Linear Algebra,Matrices and Determinants,10564
+5,4,1.0,161.0,Injective linear transformation,Linear Algebra,Linear Transformations,7241
+5,4,1.0,159.0,Kernel,Linear Algebra,Linear Transformations,7193
+5,1,1.0,64.0,Scalar product,Analytic Geometry,,2411
+5,4,1.0,355.0,Simpson's rule,Numerical Methods,,18273
+4,3,1.0,148.0,Span,Linear Algebra,Vector Spaces,6776
+2,1,1.0,116.0,Matrix operations,Linear Algebra,Matrices and Determinants,22085
+2,4,1.0,137.0,Square linear system,Linear Algebra,Linear Systems,2471
+1,5,1.0,27.0,Polar representation,Complex Numbers,,11313
+3,1,1.0,132.0,Characteristic polynomial,Linear Algebra,Eigenvalues and Eigenvectors,8657
+2,3,1.0,45.0,Sample,Statistics,,2089
+1,1,1.0,148.0,Span,Linear Algebra,Vector Spaces,7470
+1,4,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",14094
+1,2,1.0,118.0,Rank,Linear Algebra,Matrices and Determinants,19424
+5,4,1.0,159.0,Kernel,Linear Algebra,Linear Transformations,12419
+4,1,1.0,233.0,Limits,Real Functions of Several Variables,,10720
+3,2,1.0,269.0,Polynomial interpolation,Numerical Methods,,18504
+2,5,1.0,24.0,Imaginary part,Complex Numbers,,19285
+1,2,1.0,109.0,Polar coordinates,Integration,Double Integration,10724
+1,1,1.0,85.0,Product rule,Differentiation,Derivatives,1923
+4,5,1.0,177.0,Minimum,Optimization,Nonlinear Optimization,16401
+3,2,1.0,182.0,Limits,Real Functions of a Single Variable,Limits and Continuity,8773
+1,1,1.0,88.0,Sum rule,Differentiation,Derivatives,1942
+4,1,1.0,99.0,Second order,Differentiation,Partial Differentiation,23017
+4,1,1.0,2.0,Exponential function,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",14493
+2,1,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",11187
+5,1,1.0,202.0,Linear differential equation,Differential Equations,,18299
+1,1,1.0,147.0,Linear combination,Linear Algebra,Vector Spaces,6852
+1,2,1.0,177.0,Minimum,Optimization,Nonlinear Optimization,17525
+4,1,1.0,176.0,Optimal solution,Optimization,Nonlinear Optimization,17306
+2,3,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",1775
+5,3,1.0,339.0,Periodicity of a function,Real Functions of a Single Variable,,15864
+1,2,1.0,177.0,Minimum,Optimization,Nonlinear Optimization,19299
+3,4,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",15422
+4,1,1.0,2.0,Exponential function,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",3288
+1,3,1.0,47.0,Frequency,Statistics,,2178
+1,1,1.0,151.0,Basis,Linear Algebra,Vector Spaces,13822
+5,4,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,7960
+4,5,1.0,178.0,Maximum,Optimization,Nonlinear Optimization,17516
+4,2,1.0,58.0,Hypothesis testing,Statistics,,14839
+1,4,1.0,3.0,Linear equations,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",14193
+5,3,1.0,121.0,Inverse of a matrix ,Linear Algebra,Matrices and Determinants,11967
+1,1,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,4510
+2,2,1.0,114.0,Matrix multiplication,Linear Algebra,Matrices and Determinants,8813
+2,1,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,4851
+5,3,1.0,249.0,Fundamental theorem of Calculus,Integration,Definite Integrals,11805
+3,3,1.0,176.0,Optimal solution,Optimization,Nonlinear Optimization,17298
+1,4,1.0,3.0,Linear equations,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",16197
+5,1,1.0,97.0,Gradient,Differentiation,Partial Differentiation,3322
+3,2,1.0,269.0,Polynomial interpolation,Numerical Methods,,13218
+1,1,1.0,13.0,Polyhedrons,Fundamental Mathematics,,631
+3,4,1.0,24.0,Imaginary part,Complex Numbers,,21458
+1,1,1.0,103.0,Direct inspection,Integration,Integration Techniques,21685
+4,3,1.0,30.0,Complex plane ,Complex Numbers,,13726
+3,5,1.0,42.0,Counting techniques,Probability ,,11362
+3,1,1.0,161.0,Injective linear transformation,Linear Algebra,Linear Transformations,5856
+2,2,1.0,200.0,Separable variables equation,Differential Equations,,12748
+2,3,1.0,265.0,First order,Differentiation,Partial Differentiation,3425
+5,3,1.0,339.0,Periodicity of a function,Real Functions of a Single Variable,,9027
+1,4,1.0,3.0,Linear equations,Fundamental Mathematics,,1364
+2,2,1.0,64.0,Scalar product,Analytic Geometry,,20400
+1,4,1.0,4.0,Quadratic equations,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",9384
+4,3,1.0,148.0,Span,Linear Algebra,Vector Spaces,5765
+3,4,1.0,86.0,Exponential rule,Differentiation,,31
+4,4,1.0,27.0,Polar representation,Complex Numbers,,11303
+2,3,1.0,46.0,Population,Statistics,,2095
+1,2,1.0,156.0,Linearity,Linear Algebra,Linear Transformations,7587
+5,2,1.0,85.0,Product rule,Differentiation,Derivatives,22881
+5,3,1.0,249.0,Fundamental theorem of Calculus,Integration,,10046
+1,1,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,5227
+5,4,1.0,116.0,Matrix operations,Linear Algebra,Matrices and Determinants,20723
+4,2,1.0,116.0,Matrix operations,Linear Algebra,Matrices and Determinants,9981
+5,4,1.0,355.0,Simpson's rule,Numerical Methods,,12993
+4,3,1.0,353.0,Three points rule,Numerical Methods,,15368
+5,3,1.0,119.0,Matrix condensation,Linear Algebra,Matrices and Determinants,11966
+3,2,1.0,151.0,Basis,Linear Algebra,Vector Spaces,7525
+2,4,1.0,140.0,Inconsistent system,Linear Algebra,Linear Systems,2469
+1,2,1.0,64.0,Scalar product,Analytic Geometry,,20394
+3,2,1.0,54.0,Data type,Statistics,,2035
+2,2,1.0,114.0,Matrix multiplication,Linear Algebra,,2532
+2,1,1.0,268.0,Lagrange's interpolation,Numerical Methods,,18118
+3,1,1.0,161.0,Injective linear transformation,Linear Algebra,Linear Transformations,6129
+4,5,1.0,176.0,Optimal solution,Optimization,Nonlinear Optimization,21819
+5,3,1.0,338.0,Roots of a function,Real Functions of a Single Variable,"Domain, Image and Graphics",8897
+5,3,1.0,116.0,Matrix operations,Linear Algebra,Matrices and Determinants,21267
+4,4,1.0,176.0,Optimal solution,Optimization,Nonlinear Optimization,16996
+4,2,1.0,2.0,Exponential function,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",16034
+1,1,1.0,151.0,Basis,Linear Algebra,Vector Spaces,3535
+3,2,1.0,97.0,Gradient,Differentiation,Partial Differentiation,22792
+5,4,1.0,159.0,Kernel,Linear Algebra,Linear Transformations,7143
+3,3,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,22213
+1,4,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",9561
+1,4,1.0,3.0,Linear equations,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",15989
+2,2,1.0,156.0,Linearity,Linear Algebra,Linear Transformations,7860
+4,1,1.0,99.0,Second order,Differentiation,Partial Differentiation,23000
+1,3,1.0,45.0,Sample,Statistics,,2046
+4,1,1.0,121.0,Inverse of a matrix ,Linear Algebra,Matrices and Determinants,8694
+1,2,1.0,156.0,Linearity,Linear Algebra,Linear Transformations,7715
+5,4,1.0,36.0,Event,Probability ,,1097
+1,4,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",15993
+1,1,1.0,222.0,Bisection method,Numerical Methods,,18032
+4,3,1.0,353.0,Three points rule,Numerical Methods,,18063
+3,1,1.0,26.0,Conjugate number,Complex Numbers,,9169
+1,2,1.0,159.0,Kernel,Linear Algebra,Linear Transformations,7358
+3,2,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,4657
+4,2,1.0,183.0,Continuity,Real Functions of a Single Variable,,8914
+1,4,1.0,317.0,Rearranging equations,Fundamental Mathematics,,1750
+2,5,1.0,33.0,Operations with complex numbers,Complex Numbers,,10097
+2,1,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",1162
+5,6,1.0,23.0,Real part,Complex Numbers,,20537
+1,1,1.0,148.0,Span,Linear Algebra,Vector Spaces,5106
+3,4,1.0,85.0,Product rule,Differentiation,Derivatives,11786
+1,4,1.0,3.0,Linear equations,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",16389
+5,4,,148.0,Span,Linear Algebra,Vector Spaces,22221
+3,2,1.0,127.0,Eigenvalues,Linear Algebra,Eigenvalues and Eigenvectors,20721
+3,3,1.0,137.0,Square linear system,Linear Algebra,Linear Systems,21346
+3,2,1.0,200.0,Separable variables equation,Differential Equations,,39
+3,1,1.0,161.0,Injective linear transformation,Linear Algebra,Linear Transformations,4220
+1,1,1.0,85.0,Product rule,Differentiation,Derivatives,1899
+3,3,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,6568
+4,3,1.0,352.0,Gauss-Seidel method,Numerical Methods,,15640
+4,2,1.0,128.0,Eigenvectors,Linear Algebra,Eigenvalues and Eigenvectors,11623
+1,2,1.0,159.0,Kernel,Linear Algebra,Linear Transformations,3501
+1,5,1.0,137.0,Square linear system,Linear Algebra,Linear Systems,10524
+4,4,1.0,129.0,Spectrum,Linear Algebra,Eigenvalues and Eigenvectors,22195
+3,1,1.0,114.0,Matrix multiplication,Linear Algebra,Matrices and Determinants,14264
+4,1,1.0,2.0,Exponential function,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",16305
+3,1,1.0,114.0,Matrix multiplication,Linear Algebra,Matrices and Determinants,10013
+3,3,1.0,139.0,Consistent system,Linear Algebra,Linear Systems,1467
+4,3,1.0,159.0,Kernel,Linear Algebra,Linear Transformations,6751
+4,3,1.0,249.0,Fundamental theorem of Calculus,Integration,Definite Integrals,12198
+1,5,1.0,24.0,Imaginary part,Complex Numbers,,11195
+3,1,1.0,161.0,Injective linear transformation,Linear Algebra,Linear Transformations,7314
+2,1,1.0,8.0,Square roots,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",16318
+4,3,1.0,117.0,Matrix equation,Linear Algebra,Matrices and Determinants,22510
+1,3,1.0,35.0,Sample space,Probability ,,20190
+4,1,1.0,138.0,Solution of a linear system,Linear Algebra,Linear Systems,10210
+4,2,1.0,99.0,Second order,Differentiation,Partial Differentiation,3414
+1,4,1.0,3.0,Linear equations,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",16545
+2,1,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",16543
+1,1,1.0,182.0,Limits,Real Functions of a Single Variable,,15860
+2,1,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",619
+1,3,1.0,295.0,Definition,Integration,Surface Integrals,20888
+3,2,1.0,182.0,Limits,Real Functions of a Single Variable,Limits and Continuity,8460
+3,2,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,7335
+5,4,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,7691
+1,1,1.0,148.0,Span,Linear Algebra,Vector Spaces,6245
+2,3,1.0,231.0,Domain,Real Functions of Several Variables,,7881
+3,1,1.0,223.0,Newton?s method,Numerical Methods,,15550
+4,4,1.0,26.0,Conjugate number,Complex Numbers,,559
+3,2,1.0,27.0,Polar representation,Complex Numbers,,865
+5,3,1.0,359.0,Least squares method,Numerical Methods,,15318
+5,4,1.0,161.0,Injective linear transformation,Linear Algebra,Linear Transformations,7117
+3,1,1.0,159.0,Kernel,Linear Algebra,Linear Transformations,7840
+2,2,1.0,114.0,Matrix multiplication,Linear Algebra,Matrices and Determinants,19903
+4,5,1.0,177.0,Minimum,Optimization,Nonlinear Optimization,21762
+4,1,1.0,167.0,Simplex method,Optimization,Linear Optimization,15197
+1,2,1.0,177.0,Minimum,Optimization,Nonlinear Optimization,17215
+5,5,1.0,275.0,Triple integration,Integration,Triple Integration,15778
+3,4,1.0,25.0,Modulus of a complex number,Complex Numbers,,1148
+3,2,1.0,24.0,Imaginary part,Complex Numbers,,7986
+3,1,1.0,116.0,Matrix operations,Linear Algebra,Matrices and Determinants,10899
+3,4,1.0,25.0,Modulus of a complex number,Complex Numbers,,1140
+4,3,1.0,148.0,Span,Linear Algebra,Vector Spaces,22613
+2,3,1.0,75.0,Simple graph,Graph Theory,,400
+5,4,1.0,359.0,Least squares method,Numerical Methods,,13007
+2,4,1.0,3.0,Linear equations,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",14186
+5,4,1.0,359.0,Least squares method,Numerical Methods,,18075
+1,4,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",14440
+4,4,1.0,158.0,Matrix of a linear transformation,Linear Algebra,Linear Transformations,15073
+2,2,1.0,64.0,Scalar product,Analytic Geometry,,21278
+4,2,1.0,353.0,Three points rule,Numerical Methods,,13039
+2,2,1.0,156.0,Linearity,Linear Algebra,Linear Transformations,5581
+1,1,1.0,75.0,Simple graph,Graph Theory,,15470
+3,2,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,2943
+3,4,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",21113
+1,4,1.0,3.0,Linear equations,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",16718
+1,3,1.0,43.0,Axioms of probability,Probability ,,726
+4,5,1.0,177.0,Minimum,Optimization,Nonlinear Optimization,17177
+5,2,1.0,182.0,Limits,Real Functions of a Single Variable,,8782
+2,1,1.0,5.0,Simplify expressions,Fundamental Mathematics,,16741
+1,4,1.0,4.0,Quadratic equations,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",16166
+4,3,1.0,191.0,Domain,Real Functions of a Single Variable,"Domain, Image and Graphics",12412
+2,2,1.0,176.0,Optimal solution,Optimization,Nonlinear Optimization,17232
+3,2,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,12071
+3,1,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",14158
+5,4,1.0,148.0,Span,Linear Algebra,Vector Spaces,8960
+3,4,1.0,177.0,Minimum,Optimization,Nonlinear Optimization,17245
+4,3,1.0,352.0,Gauss-Seidel method,Numerical Methods,,18431
+1,4,1.0,317.0,Rearranging equations,Fundamental Mathematics,,11203
+2,2,1.0,177.0,Minimum,Optimization,Nonlinear Optimization,19003
+3,2,1.0,269.0,Polynomial interpolation,Numerical Methods,,17897
+1,4,1.0,317.0,Rearranging equations,Fundamental Mathematics,,1398
+3,2,1.0,24.0,Imaginary part,Complex Numbers,,793
+2,4,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",11094
+2,1,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,4402
+4,3,,23.0,Real part,Complex Numbers,,21726
+3,2,1.0,27.0,Polar representation,Complex Numbers,,782
+5,3,1.0,119.0,Matrix condensation,Linear Algebra,Matrices and Determinants,11909
+5,1,1.0,112.0,x-simple region (type II),Integration,Double Integration,12300
+3,2,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,6592
+4,2,1.0,2.0,Exponential function,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",16337
+1,1,1.0,101.0,Substitution,Integration,Integration Techniques,21688
+1,4,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",16154
+1,2,1.0,156.0,Linearity,Linear Algebra,Linear Transformations,5655
+5,5,1.0,56.0,Chi square distribution,Statistics,,10937
+1,4,1.0,4.0,Quadratic equations,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",11082
+1,1,1.0,222.0,Bisection method,Numerical Methods,,18638
+1,2,1.0,114.0,Matrix multiplication,Linear Algebra,Matrices and Determinants,1647
+4,1,1.0,2.0,Exponential function,Fundamental Mathematics,,9401
+2,5,1.0,97.0,Gradient,Differentiation,Partial Differentiation,22835
+1,4,1.0,299.0,Arithmetic sequence,Discrete Mathematics,Recursivity,19806
+3,2,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",21173
+2,4,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",1310
+5,6,1.0,26.0,Conjugate number,Complex Numbers,,9271
+1,2,1.0,177.0,Minimum,Optimization,Nonlinear Optimization,16920
+2,4,1.0,137.0,Square linear system,Linear Algebra,Linear Systems,6171
+5,3,1.0,359.0,Least squares method,Numerical Methods,,18088
+5,5,1.0,56.0,Chi square distribution,Statistics,,11389
+1,2,1.0,114.0,Matrix multiplication,Linear Algebra,Matrices and Determinants,9944
+2,4,1.0,85.0,Product rule,Differentiation,Derivatives,711
+2,2,1.0,64.0,Scalar product,Analytic Geometry,,11589
+1,2,1.0,156.0,Linearity,Linear Algebra,Linear Transformations,3686
+1,1,1.0,269.0,Polynomial interpolation,Numerical Methods,,18390
+4,2,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,3623
+5,3,1.0,223.0,Newton?s method,Numerical Methods,,17886
+3,2,1.0,151.0,Basis,Linear Algebra,Vector Spaces,6662
+5,4,1.0,127.0,Eigenvalues,Linear Algebra,Eigenvalues and Eigenvectors,12226
+2,2,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,5770
+3,3,1.0,45.0,Sample,Statistics,,2111
+2,4,1.0,85.0,Product rule,Differentiation,Derivatives,13895
+3,2,1.0,158.0,Matrix of a linear transformation,Linear Algebra,Linear Transformations,4029
+3,1,1.0,223.0,Newton?s method,Numerical Methods,,15609
+1,1,1.0,340.0,Monotonicity of a function,Real Functions of a Single Variable,"Domain, Image and Graphics",6537
+1,5,1.0,137.0,Square linear system,Linear Algebra,Linear Systems,10985
+3,4,1.0,86.0,Exponential rule,Differentiation,Derivatives,21732
+3,1,1.0,121.0,Inverse of a matrix ,Linear Algebra,Matrices and Determinants,1627
+4,4,1.0,118.0,Rank,Linear Algebra,Matrices and Determinants,14904
+3,4,1.0,137.0,Square linear system,Linear Algebra,Linear Systems,10295
+4,5,,176.0,Optimal solution,Optimization,Nonlinear Optimization,21888
+2,1,1.0,85.0,Product rule,Differentiation,Derivatives,1930
+5,3,1.0,116.0,Matrix operations,Linear Algebra,Matrices and Determinants,21154
+3,3,1.0,16.0,Triangles,Fundamental Mathematics,,14464
+1,1,1.0,148.0,Span,Linear Algebra,Vector Spaces,6140
+1,1,1.0,85.0,Product rule,Differentiation,Derivatives,235
+2,1,,116.0,Matrix operations,Linear Algebra,Matrices and Determinants,22022
+4,4,1.0,81.0,Tree,Graph Theory,,340
+5,4,1.0,161.0,Injective linear transformation,Linear Algebra,Linear Transformations,6473
+1,4,1.0,317.0,Rearranging equations,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",10120
+1,4,1.0,3.0,Linear equations,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",9335
+3,2,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,13816
+3,3,1.0,223.0,Newton?s method,Numerical Methods,,8631
+3,2,1.0,27.0,Polar representation,Complex Numbers,,1151
+1,1,1.0,85.0,Product rule,Differentiation,Derivatives,1862
+4,3,1.0,16.0,Triangles,Fundamental Mathematics,,14599
+5,1,1.0,70.0,Distance,Analytic Geometry,,2770
+2,2,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,4753
+4,1,1.0,138.0,Solution of a linear system,Linear Algebra,Linear Systems,22171
+5,1,1.0,97.0,Gradient,Differentiation,Partial Differentiation,22891
+4,4,1.0,114.0,Matrix multiplication,Linear Algebra,Matrices and Determinants,11901
+1,2,1.0,119.0,Matrix condensation,Linear Algebra,Matrices and Determinants,10626
+2,2,1.0,158.0,Matrix of a linear transformation,Linear Algebra,Linear Transformations,7908
+1,2,1.0,158.0,Matrix of a linear transformation,Linear Algebra,Linear Transformations,4982
+1,1,1.0,9.0,Geometrical figures,Fundamental Mathematics,,15879
+3,3,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,2994
+2,2,1.0,156.0,Linearity,Linear Algebra,Linear Transformations,6222
+2,2,1.0,156.0,Linearity,Linear Algebra,,2576
+4,1,1.0,167.0,Simplex method,Optimization,Linear Optimization,22851
+1,2,1.0,177.0,Minimum,Optimization,Nonlinear Optimization,17252
+1,1,1.0,85.0,Product rule,Differentiation,Derivatives,20241
+1,2,1.0,156.0,Linearity,Linear Algebra,Linear Transformations,7851
+2,4,1.0,139.0,Consistent system,Linear Algebra,,1492
+5,4,1.0,159.0,Kernel,Linear Algebra,Linear Transformations,15039
+1,5,1.0,138.0,Solution of a linear system,Linear Algebra,Linear Systems,2682
+3,2,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,4863
+4,2,1.0,43.0,Axioms of probability,Probability ,,1013
+1,4,1.0,99.0,Second order,Differentiation,,20305
+1,2,1.0,177.0,Minimum,Optimization,Nonlinear Optimization,18927
+3,1,1.0,223.0,Newton?s method,Numerical Methods,,18644
+2,1,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,4823
+5,4,1.0,127.0,Eigenvalues,Linear Algebra,Eigenvalues and Eigenvectors,9134
+1,2,1.0,156.0,Linearity,Linear Algebra,Linear Transformations,4157
+4,1,1.0,137.0,Square linear system,Linear Algebra,Linear Systems,22362
+1,4,1.0,4.0,Quadratic equations,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",16265
+3,2,1.0,23.0,Real part,Complex Numbers,,318
+1,2,1.0,114.0,Matrix multiplication,Linear Algebra,Matrices and Determinants,14875
+1,1,1.0,151.0,Basis,Linear Algebra,Vector Spaces,6921
+3,2,1.0,27.0,Polar representation,Complex Numbers,,13848
+4,1,1.0,64.0,Scalar product,Analytic Geometry,,1798
+2,1,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,7490
+2,2,1.0,156.0,Linearity,Linear Algebra,Linear Transformations,7730
+1,3,1.0,177.0,Minimum,Optimization,Nonlinear Optimization,19302
+5,3,1.0,359.0,Least squares method,Numerical Methods,,15250
+4,2,1.0,116.0,Matrix operations,Linear Algebra,Matrices and Determinants,14879
+2,1,1.0,249.0,Fundamental theorem of Calculus,Integration,Definite Integrals,10963
+1,3,1.0,166.0,Linear programming,Optimization,Linear Optimization,18898
+2,1,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",9494
+3,2,1.0,23.0,Real part,Complex Numbers,,16759
+1,1,1.0,23.0,Real part,Complex Numbers,,19282
+4,2,1.0,182.0,Limits,Real Functions of a Single Variable,Limits and Continuity,8845
+3,2,1.0,158.0,Matrix of a linear transformation,Linear Algebra,Linear Transformations,4211
+2,3,1.0,1.0,Trigonometric functions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",21128
+3,2,1.0,81.0,Tree,Graph Theory,,23219
+3,3,1.0,137.0,Square linear system,Linear Algebra,,1405
+4,3,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,3003
+2,2,1.0,177.0,Minimum,Optimization,Nonlinear Optimization,2362
+1,1,1.0,151.0,Basis,Linear Algebra,,13842
+3,1,1.0,223.0,Newton?s method,Numerical Methods,,15534
+3,2,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,6597
+3,1,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",13981
+3,2,1.0,11.0,Classification of geometric solids,Fundamental Mathematics,,9500
+2,4,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",1312
+2,5,1.0,25.0,Modulus of a complex number,Complex Numbers,,16616
+2,5,1.0,24.0,Imaginary part,Complex Numbers,,21092
+1,5,1.0,137.0,Square linear system,Linear Algebra,Linear Systems,5968
+1,5,1.0,27.0,Polar representation,Complex Numbers,,14974
+3,1,1.0,26.0,Conjugate number,Complex Numbers,,11296
+1,4,1.0,317.0,Rearranging equations,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",14313
+1,4,1.0,4.0,Quadratic equations,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",16256
+1,1,1.0,151.0,Basis,Linear Algebra,Vector Spaces,6263
+2,1,1.0,116.0,Matrix operations,Linear Algebra,Matrices and Determinants,3709
+5,3,1.0,202.0,Linear differential equation,Differential Equations,,8494
+4,4,1.0,27.0,Polar representation,Complex Numbers,,871
+2,1,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",17773
+1,1,1.0,151.0,Basis,Linear Algebra,Vector Spaces,7456
+4,3,1.0,65.0,Cross product,Analytic Geometry,,19952
+2,2,1.0,45.0,Sample,Statistics,,11325
+3,2,1.0,45.0,Sample,Statistics,,11760
+3,1,1.0,223.0,Newton?s method,Numerical Methods,,13280
+5,2,,173.0,Transportation problem,Optimization,Linear Optimization,22342
+4,1,1.0,138.0,Solution of a linear system,Linear Algebra,Linear Systems,6063
+5,4,1.0,127.0,Eigenvalues,Linear Algebra,Eigenvalues and Eigenvectors,20713
+1,1,1.0,148.0,Span,Linear Algebra,Vector Spaces,5524
+1,1,1.0,182.0,Limits,Real Functions of a Single Variable,Limits and Continuity,16680
+3,3,1.0,65.0,Cross product,Analytic Geometry,,7625
+2,1,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,22585
+1,2,1.0,156.0,Linearity,Linear Algebra,Linear Transformations,5885
+3,1,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",16025
+1,1,,75.0,Simple graph,Graph Theory,,23217
+5,1,1.0,66.0,Orthogonality,Analytic Geometry,,19962
+4,3,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,6779
+3,1,1.0,127.0,Eigenvalues,Linear Algebra,,17497
+3,1,1.0,157.0,Linear transformation,Linear Algebra,Linear Transformations,22050
+1,4,1.0,3.0,Linear equations,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",14435
+3,2,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,3714
+2,5,1.0,137.0,Square linear system,Linear Algebra,,2513
+2,5,1.0,137.0,Square linear system,Linear Algebra,Linear Systems,6168
+2,3,1.0,139.0,Consistent system,Linear Algebra,Linear Systems,10542
+5,1,1.0,97.0,Gradient,Differentiation,Partial Differentiation,3340
+2,2,1.0,156.0,Linearity,Linear Algebra,Linear Transformations,7420
+3,3,1.0,176.0,Optimal solution,Optimization,Nonlinear Optimization,16954
+4,2,1.0,202.0,Linear differential equation,Differential Equations,,18300
+1,3,1.0,45.0,Sample,Statistics,,2153
+3,4,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",14518
+4,3,1.0,153.0,Euclidean spaces,Linear Algebra,Vector Spaces,6365
+2,1,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,5149
+5,4,1.0,115.0,Commuting matrices,Linear Algebra,Matrices and Determinants,20730
+3,1,1.0,114.0,Matrix multiplication,Linear Algebra,Matrices and Determinants,10028
+3,2,1.0,2.0,Exponential function,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",16112
+3,2,1.0,151.0,Basis,Linear Algebra,Vector Spaces,3896
+5,2,1.0,201.0,Homogeneous equation,Differential Equations,,20367
+1,1,1.0,151.0,Basis,Linear Algebra,Vector Spaces,3058
+1,4,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",14212
+2,1,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",16093
+4,3,1.0,249.0,Fundamental theorem of Calculus,Integration,Definite Integrals,10417
+4,3,1.0,354.0,Five points rule,Numerical Methods,,18659
+5,5,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",20255
+3,1,1.0,223.0,Newton?s method,Numerical Methods,,18133
+4,3,1.0,191.0,Domain,Real Functions of a Single Variable,"Domain, Image and Graphics",8971
+1,1,1.0,222.0,Bisection method,Numerical Methods,,18417
+1,1,1.0,222.0,Bisection method,Numerical Methods,,13530
+5,2,,173.0,Transportation problem,Optimization,Linear Optimization,23144
+5,4,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,3155
+4,2,1.0,183.0,Continuity,Real Functions of a Single Variable,Limits and Continuity,8461
+2,5,1.0,35.0,Sample space,Probability ,,16732
+1,1,1.0,148.0,Span,Linear Algebra,Vector Spaces,4958
+3,4,1.0,177.0,Minimum,Optimization,Nonlinear Optimization,17458
+3,4,1.0,101.0,Substitution,Integration,Integration Techniques,8470
+3,2,1.0,27.0,Polar representation,Complex Numbers,,9179
+3,3,1.0,137.0,Square linear system,Linear Algebra,Linear Systems,15035
+4,3,1.0,353.0,Three points rule,Numerical Methods,,15356
+2,4,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",14096
+1,3,1.0,99.0,Second order,Differentiation,Partial Differentiation,20322
+2,1,1.0,101.0,Substitution,Integration,Integration Techniques,7564
+1,1,1.0,148.0,Span,Linear Algebra,Vector Spaces,4800
+5,4,1.0,222.0,Bisection method,Numerical Methods,,18631
+1,2,1.0,156.0,Linearity,Linear Algebra,Linear Transformations,22680
+5,2,1.0,138.0,Solution of a linear system,Linear Algebra,Linear Systems,22256
+1,1,1.0,151.0,Basis,Linear Algebra,Vector Spaces,22519
+5,5,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",8753
+3,2,1.0,158.0,Matrix of a linear transformation,Linear Algebra,Linear Transformations,4208
+2,1,1.0,268.0,Lagrange's interpolation,Numerical Methods,,18103
+1,5,1.0,30.0,Complex plane ,Complex Numbers,,10063
+1,3,1.0,166.0,Linear programming,Optimization,Linear Optimization,18932
+5,1,1.0,176.0,Optimal solution,Optimization,Nonlinear Optimization,17003
+4,4,1.0,224.0,Nonlinear equation,Numerical Methods,,13333
+2,1,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,3530
+1,4,1.0,3.0,Linear equations,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",17717
+1,2,1.0,114.0,Matrix multiplication,Linear Algebra,Matrices and Determinants,1478
+2,2,1.0,222.0,Bisection method,Numerical Methods,,18113
+4,6,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",16712
+1,1,1.0,222.0,Bisection method,Numerical Methods,,17996
+1,3,1.0,47.0,Frequency,Statistics,,2237
+1,2,1.0,114.0,Matrix multiplication,Linear Algebra,Matrices and Determinants,668
+1,1,1.0,147.0,Linear combination,Linear Algebra,Vector Spaces,4651
+4,1,1.0,2.0,Exponential function,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",10485
+4,1,1.0,176.0,Optimal solution,Optimization,Nonlinear Optimization,21812
+3,1,1.0,159.0,Kernel,Linear Algebra,Linear Transformations,4520
+3,1,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",9812
+5,2,1.0,101.0,Substitution,Integration,Integration Techniques,12055
+2,1,1.0,193.0,Image of a function,Real Functions of a Single Variable,"Domain, Image and Graphics",9929
+2,4,1.0,137.0,Square linear system,Linear Algebra,Linear Systems,11650
+5,1,,99.0,Second order,Differentiation,Partial Differentiation,23069
+1,5,1.0,137.0,Square linear system,Linear Algebra,Linear Systems,10350
+4,2,1.0,151.0,Basis,Linear Algebra,Vector Spaces,7311
+1,1,1.0,23.0,Real part,Complex Numbers,,20157
+1,1,1.0,151.0,Basis,Linear Algebra,Vector Spaces,2836
+1,1,1.0,151.0,Basis,Linear Algebra,Vector Spaces,5238
+4,3,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,12089
+5,3,1.0,114.0,Matrix multiplication,Linear Algebra,Matrices and Determinants,13944
+1,4,1.0,317.0,Rearranging equations,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",16015
+4,2,1.0,151.0,Basis,Linear Algebra,Vector Spaces,4984
+5,4,1.0,148.0,Span,Linear Algebra,Vector Spaces,6373
+2,1,1.0,101.0,Substitution,Integration,Integration Techniques,9681
+5,4,1.0,115.0,Commuting matrices,Linear Algebra,Matrices and Determinants,21244
+3,3,1.0,127.0,Eigenvalues,Linear Algebra,Eigenvalues and Eigenvectors,12236
+3,2,1.0,62.0,Linear regression,Statistics,,2143
+2,1,1.0,103.0,Direct inspection,Integration,Integration Techniques,8481
+4,1,,99.0,Second order,Differentiation,Partial Differentiation,23009
+2,4,1.0,3.0,Linear equations,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",21002
+3,2,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",16125
+1,1,1.0,85.0,Product rule,Differentiation,Derivatives,12582
+2,5,1.0,24.0,Imaginary part,Complex Numbers,,939
+1,2,1.0,108.0,Cartesian coordinates,Integration,,11013
+4,1,1.0,2.0,Exponential function,Fundamental Mathematics,,670
+3,1,1.0,159.0,Kernel,Linear Algebra,Linear Transformations,6874
+3,1,1.0,116.0,Matrix operations,Linear Algebra,Matrices and Determinants,18785
+1,1,1.0,103.0,Direct inspection,Integration,Integration Techniques,19265
+1,1,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,5357
+3,1,1.0,161.0,Injective linear transformation,Linear Algebra,Linear Transformations,7596
+1,4,1.0,3.0,Linear equations,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",17080
+2,2,1.0,64.0,Scalar product,Analytic Geometry,,7632
+4,2,1.0,2.0,Exponential function,Fundamental Mathematics,,10479
+3,1,1.0,26.0,Conjugate number,Complex Numbers,,1073
+4,3,1.0,65.0,Cross product,Analytic Geometry,,16778
+1,2,1.0,159.0,Kernel,Linear Algebra,Linear Transformations,5887
+2,1,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,6941
+1,1,1.0,222.0,Bisection method,Numerical Methods,,15276
+3,2,1.0,21.0,Regular polygon,Fundamental Mathematics,,1180
+2,2,1.0,156.0,Linearity,Linear Algebra,Linear Transformations,7849
+4,1,1.0,137.0,Square linear system,Linear Algebra,Linear Systems,9200
+3,4,,119.0,Matrix condensation,Linear Algebra,Matrices and Determinants,22108
+2,3,1.0,45.0,Sample,Statistics,,2263
+2,4,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",15905
+1,3,1.0,166.0,Linear programming,Optimization,,17531
+2,1,1.0,222.0,Bisection method,Numerical Methods,,15639
+5,3,1.0,338.0,Roots of a function,Real Functions of a Single Variable,"Domain, Image and Graphics",8444
+2,3,1.0,166.0,Linear programming,Optimization,Linear Optimization,15177
+1,1,1.0,269.0,Polynomial interpolation,Numerical Methods,,18286
+3,4,1.0,269.0,Polynomial interpolation,Numerical Methods,,18161
+4,2,1.0,355.0,Simpson's rule,Numerical Methods,,18620
+3,2,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,3773
+1,1,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,4751
+2,5,1.0,137.0,Square linear system,Linear Algebra,Linear Systems,2827
+2,2,1.0,114.0,Matrix multiplication,Linear Algebra,Matrices and Determinants,11452
+3,4,,114.0,Matrix multiplication,Linear Algebra,Matrices and Determinants,22653
+4,3,1.0,352.0,Gauss-Seidel method,Numerical Methods,,18471
+5,1,1.0,97.0,Gradient,Differentiation,Partial Differentiation,3443
+1,1,1.0,16.0,Triangles,Fundamental Mathematics,,13713
+2,1,1.0,159.0,Kernel,Linear Algebra,Linear Transformations,7720
+1,1,1.0,103.0,Direct inspection,Integration,Integration Techniques,14715
+2,2,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,2459
+1,3,1.0,45.0,Sample,Statistics,,10921
+4,1,1.0,202.0,Linear differential equation,Differential Equations,,22871
+3,1,1.0,114.0,Matrix multiplication,Linear Algebra,Matrices and Determinants,14269
+1,4,1.0,317.0,Rearranging equations,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",9538
+1,1,1.0,222.0,Bisection method,Numerical Methods,,8405
+2,2,1.0,114.0,Matrix multiplication,Linear Algebra,,9471
+2,3,1.0,8.0,Square roots,Fundamental Mathematics,,13717
+3,2,1.0,269.0,Polynomial interpolation,Numerical Methods,,18574
+2,1,1.0,27.0,Polar representation,Complex Numbers,,887
+1,4,1.0,3.0,Linear equations,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",15996
+2,2,1.0,114.0,Matrix multiplication,Linear Algebra,Matrices and Determinants,823
+3,4,,114.0,Matrix multiplication,Linear Algebra,Matrices and Determinants,22175
+3,2,1.0,177.0,Minimum,Optimization,Nonlinear Optimization,18929
+4,2,1.0,355.0,Simpson's rule,Numerical Methods,,18028
+3,2,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,4368
+4,3,1.0,69.0,Orthogonal projection,Analytic Geometry,,19919
+4,2,1.0,355.0,Simpson's rule,Numerical Methods,,8549
+4,1,1.0,128.0,Eigenvectors,Linear Algebra,Eigenvalues and Eigenvectors,11630
+1,4,1.0,317.0,Rearranging equations,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",17078
+3,1,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",14434
+1,5,1.0,137.0,Square linear system,Linear Algebra,Linear Systems,1687
+5,4,1.0,159.0,Kernel,Linear Algebra,Linear Transformations,7003
+4,3,1.0,351.0,Jacobi method,Numerical Methods,,18489
+5,4,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,7703
+4,1,1.0,156.0,Linearity,Linear Algebra,Linear Transformations,6875
+3,4,1.0,177.0,Minimum,Optimization,,17210
+1,1,1.0,151.0,Basis,Linear Algebra,Vector Spaces,4401
+5,1,1.0,38.0,Independence,Probability ,,14731
+2,4,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",9883
+5,4,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,21410
+3,2,1.0,81.0,Tree,Graph Theory,,14934
+1,1,1.0,151.0,Basis,Linear Algebra,Vector Spaces,22606
+5,5,1.0,275.0,Triple integration,Integration,Triple Integration,15769
+5,1,1.0,70.0,Distance,Analytic Geometry,,23224
+4,1,1.0,67.0,Scalar triple product,Analytic Geometry,,9105
+2,5,1.0,33.0,Operations with complex numbers,Complex Numbers,,2017
+3,4,1.0,269.0,Polynomial interpolation,Numerical Methods,,13123
+1,4,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",9816
+5,4,1.0,159.0,Kernel,Linear Algebra,Linear Transformations,6996
+1,1,1.0,148.0,Span,Linear Algebra,Vector Spaces,5286
+4,3,1.0,103.0,Direct inspection,Integration,Integration Techniques,9695
+4,2,1.0,2.0,Exponential function,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",11091
+4,3,1.0,161.0,Injective linear transformation,Linear Algebra,Linear Transformations,7050
+5,2,,138.0,Solution of a linear system,Linear Algebra,Linear Systems,22386
+3,2,1.0,2.0,Exponential function,Fundamental Mathematics,,1988
+5,3,1.0,359.0,Least squares method,Numerical Methods,,13266
+3,1,1.0,156.0,Linearity,Linear Algebra,Linear Transformations,7075
+4,2,1.0,99.0,Second order,Differentiation,Partial Differentiation,3193
+5,2,1.0,167.0,Simplex method,Optimization,Linear Optimization,23132
+2,1,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",17790
+4,1,1.0,2.0,Exponential function,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",17079
+3,1,1.0,161.0,Injective linear transformation,Linear Algebra,Linear Transformations,6898
+2,2,1.0,114.0,Matrix multiplication,Linear Algebra,Matrices and Determinants,1709
+5,4,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,3125
+5,6,1.0,23.0,Real part,Complex Numbers,,9274
+1,2,1.0,116.0,Matrix operations,Linear Algebra,Matrices and Determinants,10253
+3,2,1.0,151.0,Basis,Linear Algebra,Vector Spaces,3029
+3,2,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,22548
+1,2,1.0,177.0,Minimum,Optimization,,17533
+2,1,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",14161
+3,1,1.0,156.0,Linearity,Linear Algebra,Linear Transformations,6005
+2,3,1.0,231.0,Domain,Real Functions of Several Variables,,13448
+4,3,1.0,177.0,Minimum,Optimization,Nonlinear Optimization,17348
+2,2,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,6288
+1,2,1.0,156.0,Linearity,Linear Algebra,Linear Transformations,7340
+4,1,1.0,99.0,Second order,Differentiation,Partial Differentiation,22972
+1,4,1.0,265.0,First order,Differentiation,Partial Differentiation,22799
+1,1,1.0,148.0,Span,Linear Algebra,Vector Spaces,7496
+3,2,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,4864
+2,5,1.0,23.0,Real part,Complex Numbers,,16099
+2,5,1.0,137.0,Square linear system,Linear Algebra,Linear Systems,6166
+2,2,1.0,156.0,Linearity,Linear Algebra,Linear Transformations,4206
+3,4,1.0,85.0,Product rule,Differentiation,Derivatives,11604
+1,2,1.0,177.0,Minimum,Optimization,Nonlinear Optimization,17120
+3,2,1.0,99.0,Second order,Differentiation,Partial Differentiation,23028
+4,2,1.0,151.0,Basis,Linear Algebra,Vector Spaces,5032
+5,6,1.0,23.0,Real part,Complex Numbers,,11503
+3,2,1.0,249.0,Fundamental theorem of Calculus,Integration,Definite Integrals,10043
+2,3,1.0,166.0,Linear programming,Optimization,Linear Optimization,12881
+2,1,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,4804
+5,3,1.0,114.0,Matrix multiplication,Linear Algebra,Matrices and Determinants,22140
+1,5,1.0,27.0,Polar representation,Complex Numbers,,20151
+2,4,1.0,3.0,Linear equations,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",21011
+3,2,1.0,73.0,Cartesian equations of a plane,Analytic Geometry,,11042
+3,1,1.0,116.0,Matrix operations,Linear Algebra,Matrices and Determinants,22481
+1,1,1.0,148.0,Span,Linear Algebra,Vector Spaces,4009
+5,3,1.0,359.0,Least squares method,Numerical Methods,,15694
+2,1,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,4569
+2,1,,116.0,Matrix operations,Linear Algebra,Matrices and Determinants,22070
+4,4,1.0,224.0,Nonlinear equation,Numerical Methods,,15272
+1,2,1.0,114.0,Matrix multiplication,Linear Algebra,Matrices and Determinants,19422
+1,1,1.0,88.0,Sum rule,Differentiation,Derivatives,13344
+4,1,1.0,2.0,Exponential function,Fundamental Mathematics,,9428
+3,4,1.0,177.0,Minimum,Optimization,Nonlinear Optimization,17357
+2,1,1.0,156.0,Linearity,Linear Algebra,Linear Transformations,3683
+5,3,1.0,116.0,Matrix operations,Linear Algebra,Matrices and Determinants,20729
+2,2,1.0,268.0,Lagrange's interpolation,Numerical Methods,,17915
+4,2,1.0,2.0,Exponential function,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",16001
+2,2,1.0,156.0,Linearity,Linear Algebra,Linear Transformations,6638
+4,2,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,4641
+1,1,1.0,85.0,Product rule,Differentiation,Derivatives,14527
+2,2,1.0,20.0,Symmetry,Fundamental Mathematics,,15944
+1,4,1.0,305.0,Patterns,Discrete Mathematics,Recursivity,19715
+2,2,1.0,15.0,Polygons,Fundamental Mathematics,,9628
+1,2,1.0,156.0,Linearity,Linear Algebra,Linear Transformations,4452
+3,3,1.0,127.0,Eigenvalues,Linear Algebra,Eigenvalues and Eigenvectors,22473
+3,2,1.0,5.0,Simplify expressions,Fundamental Mathematics,,9331
+2,5,1.0,137.0,Square linear system,Linear Algebra,Linear Systems,22414
+5,4,1.0,116.0,Matrix operations,Linear Algebra,Matrices and Determinants,22348
+5,4,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,22222
+4,3,1.0,161.0,Injective linear transformation,Linear Algebra,Linear Transformations,329
+3,2,1.0,27.0,Polar representation,Complex Numbers,,11876
+3,2,1.0,27.0,Polar representation,Complex Numbers,,421
+3,3,1.0,64.0,Scalar product,Analytic Geometry,,4184
+1,1,1.0,148.0,Span,Linear Algebra,Vector Spaces,3052
+5,1,1.0,65.0,Cross product,Analytic Geometry,,9163
+4,5,1.0,177.0,Minimum,Optimization,Nonlinear Optimization,17418
+3,3,1.0,140.0,Inconsistent system,Linear Algebra,Linear Systems,22264
+5,4,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,6349
+1,4,1.0,317.0,Rearranging equations,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",15970
+4,4,1.0,115.0,Commuting matrices,Linear Algebra,Matrices and Determinants,20920
+5,1,1.0,97.0,Gradient,Differentiation,Partial Differentiation,23074
+2,1,1.0,295.0,Definition,Integration,Surface Integrals,20881
+1,3,1.0,166.0,Linear programming,Optimization,Linear Optimization,17847
+1,2,1.0,116.0,Matrix operations,Linear Algebra,Matrices and Determinants,19108
+2,1,1.0,103.0,Direct inspection,Integration,Integration Techniques,7567
+3,2,1.0,21.0,Regular polygon,Fundamental Mathematics,,9438
+1,1,1.0,148.0,Span,Linear Algebra,Vector Spaces,3620
+5,6,1.0,23.0,Real part,Complex Numbers,,11849
+1,1,1.0,269.0,Polynomial interpolation,Numerical Methods,,18092
+5,4,1.0,43.0,Axioms of probability,Probability ,,13917
+2,1,1.0,268.0,Lagrange's interpolation,Numerical Methods,,17894
+3,2,1.0,158.0,Matrix of a linear transformation,Linear Algebra,Linear Transformations,6692
+3,4,1.0,25.0,Modulus of a complex number,Complex Numbers,,20587
+4,3,1.0,352.0,Gauss-Seidel method,Numerical Methods,,15227
+5,4,1.0,359.0,Least squares method,Numerical Methods,,15367
+5,4,1.0,157.0,Linear transformation,Linear Algebra,Linear Transformations,6553
+1,5,1.0,137.0,Square linear system,Linear Algebra,Linear Systems,22412
+5,1,1.0,97.0,Gradient,Differentiation,Partial Differentiation,22748
+2,1,1.0,25.0,Modulus of a complex number,Complex Numbers,,15109
+3,1,1.0,161.0,Injective linear transformation,Linear Algebra,Linear Transformations,4246
+5,3,1.0,24.0,Imaginary part,Complex Numbers,,781
+2,4,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",20981
+5,2,1.0,139.0,Consistent system,Linear Algebra,Linear Systems,22459
+3,4,1.0,249.0,Fundamental theorem of Calculus,Integration,Definite Integrals,15419
+1,1,1.0,148.0,Span,Linear Algebra,Vector Spaces,6664
+2,3,1.0,177.0,Minimum,Optimization,Nonlinear Optimization,17183
+5,5,1.0,49.0,Mean,Statistics,,11436
+5,5,1.0,58.0,Hypothesis testing,Statistics,,11259
+1,4,1.0,299.0,Arithmetic sequence,Discrete Mathematics,Recursivity,19702
+1,1,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,2912
+2,5,1.0,33.0,Operations with complex numbers,Complex Numbers,,1070
+2,1,,116.0,Matrix operations,Linear Algebra,Matrices and Determinants,22482
+4,4,1.0,49.0,Mean,Statistics,,11388
+1,4,1.0,3.0,Linear equations,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",16174
+4,3,1.0,102.0,Integration by parts,Integration,Integration Techniques,19182
+1,2,1.0,156.0,Linearity,Linear Algebra,Linear Transformations,6232
+3,5,1.0,265.0,First order,Differentiation,Partial Differentiation,3427
+4,3,1.0,13.0,Polyhedrons,Fundamental Mathematics,,9393
+5,4,1.0,157.0,Linear transformation,Linear Algebra,Linear Transformations,22580
+2,5,1.0,97.0,Gradient,Differentiation,Partial Differentiation,3398
+5,5,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",20254
+2,4,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",21136
+3,4,1.0,177.0,Minimum,Optimization,,11608
+4,1,,99.0,Second order,Differentiation,Partial Differentiation,23201
+3,2,1.0,268.0,Lagrange's interpolation,Numerical Methods,,18159
+1,4,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",1762
+1,1,1.0,85.0,Product rule,Differentiation,Derivatives,23108
+4,1,1.0,167.0,Simplex method,Optimization,Linear Optimization,23130
+1,4,1.0,317.0,Rearranging equations,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",16215
+1,2,1.0,118.0,Rank,Linear Algebra,Matrices and Determinants,1322
+2,4,1.0,3.0,Linear equations,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",14303
+2,1,1.0,249.0,Fundamental theorem of Calculus,Integration,Definite Integrals,11810
+4,4,1.0,49.0,Mean,Statistics,,2108
+1,1,1.0,269.0,Polynomial interpolation,Numerical Methods,,18199
+1,1,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,6653
+1,2,1.0,156.0,Linearity,Linear Algebra,Linear Transformations,6034
+5,2,1.0,201.0,Homogeneous equation,Differential Equations,,20931
+1,1,1.0,182.0,Limits,Real Functions of a Single Variable,Limits and Continuity,23205
+3,4,1.0,103.0,Direct inspection,Integration,Integration Techniques,14725
+5,6,1.0,30.0,Complex plane ,Complex Numbers,,789
+2,1,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",21043
+3,1,1.0,103.0,Direct inspection,Integration,Integration Techniques,10813
+5,6,1.0,30.0,Complex plane ,Complex Numbers,,16460
+1,2,1.0,116.0,Matrix operations,Linear Algebra,Matrices and Determinants,11897
+3,1,1.0,127.0,Eigenvalues,Linear Algebra,Eigenvalues and Eigenvectors,21403
+5,3,1.0,64.0,Scalar product,Analytic Geometry,,3121
+4,6,1.0,319.0,Solution range,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",21984
+3,1,,167.0,Simplex method,Optimization,Linear Optimization,22276
+3,1,1.0,161.0,Injective linear transformation,Linear Algebra,Linear Transformations,3805
+1,2,1.0,115.0,Commuting matrices,Linear Algebra,Matrices and Determinants,21225
+2,1,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",16385
+2,1,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,6607
+3,4,1.0,177.0,Minimum,Optimization,Nonlinear Optimization,17460
+5,4,1.0,116.0,Matrix operations,Linear Algebra,Matrices and Determinants,14075
+1,3,1.0,99.0,Second order,Differentiation,Partial Differentiation,22921
+5,1,1.0,66.0,Orthogonality,Analytic Geometry,,15090
+2,5,1.0,25.0,Modulus of a complex number,Complex Numbers,,885
+4,4,1.0,26.0,Conjugate number,Complex Numbers,,11307
+5,2,1.0,137.0,Square linear system,Linear Algebra,Linear Systems,21033
+1,2,1.0,177.0,Minimum,Optimization,Nonlinear Optimization,19047
+5,4,1.0,81.0,Tree,Graph Theory,,13486
+4,3,1.0,353.0,Three points rule,Numerical Methods,,18313
+3,4,1.0,179.0,Feasible set,Optimization,Nonlinear Optimization,17273
+3,3,1.0,70.0,Distance,Analytic Geometry,,19455
+3,2,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,6654
+4,3,1.0,351.0,Jacobi method,Numerical Methods,,18184
+3,1,1.0,114.0,Matrix multiplication,Linear Algebra,Matrices and Determinants,9960
+3,2,1.0,200.0,Separable variables equation,Differential Equations,,12733
+5,4,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,5812
+2,2,1.0,15.0,Polygons,Fundamental Mathematics,,595
+3,2,1.0,45.0,Sample,Statistics,,13909
+1,2,1.0,156.0,Linearity,Linear Algebra,Linear Transformations,19386
+4,2,1.0,353.0,Three points rule,Numerical Methods,,13225
+3,1,1.0,167.0,Simplex method,Optimization,Linear Optimization,22304
+2,1,1.0,222.0,Bisection method,Numerical Methods,,13271
+5,3,1.0,121.0,Inverse of a matrix ,Linear Algebra,Matrices and Determinants,8806
+1,3,1.0,45.0,Sample,Statistics,,2100
+1,2,1.0,177.0,Minimum,Optimization,Nonlinear Optimization,2364
+5,3,1.0,223.0,Newton?s method,Numerical Methods,,8550
+4,4,1.0,269.0,Polynomial interpolation,Numerical Methods,,18068
+3,1,1.0,116.0,Matrix operations,Linear Algebra,Matrices and Determinants,14259
+4,4,1.0,19.0,Geometric transformations,Fundamental Mathematics,,14746
+4,2,1.0,99.0,Second order,Differentiation,,4201
+1,2,1.0,159.0,Kernel,Linear Algebra,Linear Transformations,3603
+2,1,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,5273
+2,3,1.0,166.0,Linear programming,Optimization,Linear Optimization,15180
+2,1,,114.0,Matrix multiplication,Linear Algebra,Matrices and Determinants,22715
+3,4,1.0,103.0,Direct inspection,Integration,Integration Techniques,14783
+2,1,1.0,159.0,Kernel,Linear Algebra,Linear Transformations,3800
+1,4,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",16283
+5,4,1.0,359.0,Least squares method,Numerical Methods,,13167
+4,1,1.0,176.0,Optimal solution,Optimization,Nonlinear Optimization,17484
+5,6,1.0,23.0,Real part,Complex Numbers,,21512
+2,1,1.0,101.0,Substitution,Integration,,11580
+4,2,1.0,353.0,Three points rule,Numerical Methods,,15398
+4,3,1.0,29.0,Nth root,Complex Numbers,,929
+1,5,1.0,30.0,Complex plane ,Complex Numbers,,16431
+2,2,1.0,64.0,Scalar product,Analytic Geometry,,1796
+3,1,1.0,159.0,Kernel,Linear Algebra,Linear Transformations,4557
+1,1,1.0,75.0,Simple graph,Graph Theory,,19777
+1,2,1.0,118.0,Rank,Linear Algebra,Matrices and Determinants,14285
+1,1,1.0,147.0,Linear combination,Linear Algebra,Vector Spaces,4892
+4,3,1.0,65.0,Cross product,Analytic Geometry,,14962
+1,3,1.0,166.0,Linear programming,Optimization,Linear Optimization,13763
+4,4,1.0,127.0,Eigenvalues,Linear Algebra,,859
+1,1,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,3464
+1,3,1.0,45.0,Sample,Statistics,,11346
+1,1,1.0,85.0,Product rule,Differentiation,Derivatives,1876
+3,2,1.0,158.0,Matrix of a linear transformation,Linear Algebra,Linear Transformations,5326
+1,2,1.0,115.0,Commuting matrices,Linear Algebra,Matrices and Determinants,16807
+2,2,1.0,201.0,Homogeneous equation,Differential Equations,,20467
+2,1,1.0,103.0,Direct inspection,Integration,,11014
+1,1,1.0,148.0,Span,Linear Algebra,Vector Spaces,13821
+1,1,1.0,151.0,Basis,Linear Algebra,Vector Spaces,12213
+2,1,1.0,159.0,Kernel,Linear Algebra,Linear Transformations,3978
+2,1,1.0,159.0,Kernel,Linear Algebra,Linear Transformations,5131
+4,3,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,6390
+5,3,1.0,223.0,Newton?s method,Numerical Methods,,18002
+4,3,1.0,159.0,Kernel,Linear Algebra,Linear Transformations,7259
+1,2,1.0,116.0,Matrix operations,Linear Algebra,Matrices and Determinants,999
+2,1,1.0,159.0,Kernel,Linear Algebra,Linear Transformations,7914
+1,4,1.0,3.0,Linear equations,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",20909
+4,1,1.0,380.0,Euler's method,Differential Equations,,20528
+1,1,1.0,380.0,Euler's method,Differential Equations,,21922
+2,2,1.0,158.0,Matrix of a linear transformation,Linear Algebra,Linear Transformations,11459
+1,2,1.0,116.0,Matrix operations,Linear Algebra,Matrices and Determinants,10621
+5,4,1.0,224.0,Nonlinear equation,Numerical Methods,,18293
+1,1,1.0,222.0,Bisection method,Numerical Methods,,18634
+5,2,1.0,167.0,Simplex method,Optimization,Linear Optimization,20629
+5,4,1.0,222.0,Bisection method,Numerical Methods,,18166
+3,1,1.0,161.0,Injective linear transformation,Linear Algebra,Linear Transformations,4055
+1,2,1.0,177.0,Minimum,Optimization,Nonlinear Optimization,18923
+3,5,1.0,99.0,Second order,Differentiation,,5574
+1,4,1.0,265.0,First order,Differentiation,Partial Differentiation,22754
+1,4,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",16167
+1,3,1.0,47.0,Frequency,Statistics,,11752
+1,4,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",17797
+1,2,1.0,64.0,Scalar product,Analytic Geometry,,21932
+2,2,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,4681
+4,4,1.0,224.0,Nonlinear equation,Numerical Methods,,15260
+1,1,1.0,88.0,Sum rule,Differentiation,Derivatives,14366
+2,2,1.0,156.0,Linearity,Linear Algebra,Linear Transformations,4599
+3,4,1.0,102.0,Integration by parts,Integration,Integration Techniques,9908
+2,1,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,5046
+1,1,1.0,151.0,Basis,Linear Algebra,Vector Spaces,3526
+2,2,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,4108
+1,2,1.0,64.0,Scalar product,Analytic Geometry,,7634
+3,2,1.0,99.0,Second order,Differentiation,Partial Differentiation,22979
+2,1,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,5434
+3,1,1.0,275.0,Triple integration,Integration,Triple Integration,15768
+5,2,1.0,91.0,Power rule,Differentiation,Derivatives,20235
+3,2,1.0,24.0,Imaginary part,Complex Numbers,,11875
+1,1,1.0,88.0,Sum rule,Differentiation,Derivatives,11594
+4,1,1.0,202.0,Linear differential equation,Differential Equations,,20470
+1,4,1.0,317.0,Rearranging equations,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",802
+4,3,1.0,72.0,Cartesian equations of a line,Analytic Geometry,,11776
+2,5,1.0,25.0,Modulus of a complex number,Complex Numbers,,9978
+3,2,1.0,45.0,Sample,Statistics,,11422
+4,1,1.0,177.0,Minimum,Optimization,Nonlinear Optimization,16869
+3,3,1.0,167.0,Simplex method,Optimization,Linear Optimization,13770
+1,4,1.0,317.0,Rearranging equations,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",17820
+1,2,1.0,159.0,Kernel,Linear Algebra,Linear Transformations,7292
+2,4,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",16259
+4,3,1.0,161.0,Injective linear transformation,Linear Algebra,Linear Transformations,6994
+3,2,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,6667
+3,3,1.0,65.0,Cross product,Analytic Geometry,,1541
+4,2,1.0,199.0,Integral curve,Differential Equations,,19979
+1,1,1.0,147.0,Linear combination,Linear Algebra,Vector Spaces,5171
+2,2,1.0,45.0,Sample,Statistics,,2266
+3,1,1.0,2.0,Exponential function,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",9649
+4,2,1.0,2.0,Exponential function,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",16550
+4,1,1.0,191.0,Domain,Real Functions of a Single Variable,"Domain, Image and Graphics",8969
+2,4,1.0,137.0,Square linear system,Linear Algebra,Linear Systems,8698
+4,4,1.0,224.0,Nonlinear equation,Numerical Methods,,18554
+5,4,1.0,148.0,Span,Linear Algebra,Vector Spaces,5798
+1,1,1.0,147.0,Linear combination,Linear Algebra,Vector Spaces,13812
+1,4,1.0,299.0,Arithmetic sequence,Discrete Mathematics,Recursivity,19699
+1,1,1.0,151.0,Basis,Linear Algebra,Vector Spaces,4048
+5,4,1.0,159.0,Kernel,Linear Algebra,Linear Transformations,6728
+3,2,1.0,27.0,Polar representation,Complex Numbers,,20121
+1,4,1.0,317.0,Rearranging equations,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",16309
+1,1,1.0,9.0,Geometrical figures,Fundamental Mathematics,,15871
+1,1,1.0,148.0,Span,Linear Algebra,Vector Spaces,5148
+1,1,1.0,147.0,Linear combination,Linear Algebra,Vector Spaces,5026
+1,1,1.0,226.0,Two variables,Differentiation,Implicit Differentiation and Chain Rule,19922
+3,1,1.0,161.0,Injective linear transformation,Linear Algebra,,13840
+5,3,1.0,223.0,Newton?s method,Numerical Methods,,17877
+2,1,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",14173
+3,2,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",16113
+1,1,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,3867
+4,6,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",21035
+4,3,1.0,351.0,Jacobi method,Numerical Methods,,13291
+5,4,1.0,148.0,Span,Linear Algebra,Vector Spaces,7655
+4,6,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",16407
+3,2,1.0,249.0,Fundamental theorem of Calculus,Integration,Definite Integrals,10044
+3,3,1.0,223.0,Newton?s method,Numerical Methods,,18282
+2,2,1.0,156.0,Linearity,Linear Algebra,Linear Transformations,5855
+3,1,1.0,182.0,Limits,Real Functions of a Single Variable,Limits and Continuity,11705
+2,1,1.0,156.0,Linearity,Linear Algebra,Linear Transformations,3554
+2,3,1.0,265.0,First order,Differentiation,Partial Differentiation,3447
+3,3,1.0,140.0,Inconsistent system,Linear Algebra,,9474
+3,2,1.0,269.0,Polynomial interpolation,Numerical Methods,,18346
+3,2,1.0,151.0,Basis,Linear Algebra,Vector Spaces,7467
+4,3,1.0,353.0,Three points rule,Numerical Methods,,15404
+5,4,1.0,75.0,Simple graph,Graph Theory,,401
+2,4,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",14234
+4,1,1.0,177.0,Minimum,Optimization,Nonlinear Optimization,16948
+2,1,1.0,5.0,Simplify expressions,Fundamental Mathematics,,16581
+3,3,1.0,176.0,Optimal solution,Optimization,Nonlinear Optimization,16968
+1,2,1.0,177.0,Minimum,Optimization,,17158
+1,1,1.0,148.0,Span,Linear Algebra,Vector Spaces,4792
+2,4,1.0,85.0,Product rule,Differentiation,Derivatives,1955
+2,4,1.0,299.0,Arithmetic sequence,Discrete Mathematics,Recursivity,20631
+2,5,1.0,35.0,Sample space,Probability ,,14840
+3,2,1.0,151.0,Basis,Linear Algebra,Vector Spaces,4597
+3,4,1.0,85.0,Product rule,Differentiation,Derivatives,13894
+1,4,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",14127
+3,1,1.0,114.0,Matrix multiplication,Linear Algebra,Matrices and Determinants,9834
+2,1,1.0,222.0,Bisection method,Numerical Methods,,15446
+4,2,1.0,49.0,Mean,Statistics,,7945
+2,1,1.0,27.0,Polar representation,Complex Numbers,,21574
+4,3,1.0,269.0,Polynomial interpolation,Numerical Methods,,18575
+1,2,1.0,116.0,Matrix operations,Linear Algebra,Matrices and Determinants,827
+4,2,1.0,166.0,Linear programming,Optimization,,17264
+3,1,1.0,116.0,Matrix operations,Linear Algebra,Matrices and Determinants,22084
+3,3,1.0,137.0,Square linear system,Linear Algebra,,9482
+2,1,1.0,8.0,Square roots,Fundamental Mathematics,,2320
+2,1,1.0,16.0,Triangles,Fundamental Mathematics,Elementary Geometry,15429
+3,2,1.0,177.0,Minimum,Optimization,Nonlinear Optimization,17352
+5,3,1.0,116.0,Matrix operations,Linear Algebra,Matrices and Determinants,21060
+4,2,1.0,355.0,Simpson's rule,Numerical Methods,,13135
+1,2,1.0,116.0,Matrix operations,Linear Algebra,Matrices and Determinants,9988
+3,2,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,7472
+3,2,1.0,380.0,Euler's method,Differential Equations,,12730
+4,1,1.0,2.0,Exponential function,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",1763
+3,4,1.0,26.0,Conjugate number,Complex Numbers,,7979
+1,2,1.0,159.0,Kernel,Linear Algebra,Linear Transformations,4025
+3,3,1.0,224.0,Nonlinear equation,Numerical Methods,,17987
+2,2,1.0,158.0,Matrix of a linear transformation,Linear Algebra,Linear Transformations,7369
+4,3,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,6740
+4,2,1.0,49.0,Mean,Statistics,,2140
+3,4,1.0,90.0,Quotient rule,Differentiation,Derivatives,1896
+2,1,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",1173
+5,1,1.0,72.0,Cartesian equations of a line,Analytic Geometry,,2616
+5,2,1.0,169.0,Excel solver add-in,Optimization,Linear Optimization,23149
+4,2,1.0,269.0,Polynomial interpolation,Numerical Methods,,8617
+5,1,1.0,64.0,Scalar product,Analytic Geometry,,22724
+1,4,1.0,4.0,Quadratic equations,Fundamental Mathematics,,1809
+4,4,1.0,156.0,Linearity,Linear Algebra,Linear Transformations,7698
+4,2,1.0,99.0,Second order,Differentiation,Partial Differentiation,22977
+3,4,1.0,179.0,Feasible set,Optimization,Nonlinear Optimization,17413
+3,2,1.0,268.0,Lagrange's interpolation,Numerical Methods,,15535
+4,1,1.0,305.0,Patterns,Discrete Mathematics,Recursivity,20558
+1,4,1.0,3.0,Linear equations,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",16072
+2,3,1.0,167.0,Simplex method,Optimization,Linear Optimization,18934
+1,4,1.0,317.0,Rearranging equations,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",614
+3,1,1.0,2.0,Exponential function,Fundamental Mathematics,,1521
+3,4,1.0,26.0,Conjugate number,Complex Numbers,,1257
+5,4,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,6567
+1,5,1.0,24.0,Imaginary part,Complex Numbers,,19289
+5,3,1.0,339.0,Periodicity of a function,Real Functions of a Single Variable,,8915
+5,3,1.0,114.0,Matrix multiplication,Linear Algebra,Matrices and Determinants,14081
+1,1,1.0,148.0,Span,Linear Algebra,Vector Spaces,2762
+2,2,1.0,64.0,Scalar product,Analytic Geometry,,18330
+2,4,,249.0,Fundamental theorem of Calculus,Integration,Definite Integrals,21910
+3,1,1.0,157.0,Linear transformation,Linear Algebra,Linear Transformations,3638
+5,5,1.0,55.0,Quantile,Statistics,,2062
+1,3,1.0,47.0,Frequency,Statistics,,11355
+4,1,1.0,156.0,Linearity,Linear Algebra,Linear Transformations,6869
+4,3,1.0,137.0,Square linear system,Linear Algebra,,9
+2,5,1.0,99.0,Second order,Differentiation,,15452
+4,4,1.0,156.0,Linearity,Linear Algebra,Linear Transformations,7114
+4,3,1.0,153.0,Euclidean spaces,Linear Algebra,Vector Spaces,22629
+4,2,1.0,151.0,Basis,Linear Algebra,Vector Spaces,4730
+5,4,1.0,159.0,Kernel,Linear Algebra,Linear Transformations,6448
+3,1,1.0,223.0,Newton?s method,Numerical Methods,,15322
+2,1,1.0,101.0,Substitution,Integration,Integration Techniques,14709
+5,4,1.0,355.0,Simpson's rule,Numerical Methods,,15242
+2,2,1.0,114.0,Matrix multiplication,Linear Algebra,Matrices and Determinants,19057
+2,1,1.0,101.0,Substitution,Integration,Integration Techniques,14786
+1,2,1.0,156.0,Linearity,Linear Algebra,Linear Transformations,7392
+2,4,1.0,137.0,Square linear system,Linear Algebra,Linear Systems,10316
+1,2,1.0,156.0,Linearity,Linear Algebra,Linear Transformations,5886
+1,2,1.0,158.0,Matrix of a linear transformation,Linear Algebra,Linear Transformations,4422
+4,4,1.0,176.0,Optimal solution,Optimization,Nonlinear Optimization,17486
+1,1,1.0,151.0,Basis,Linear Algebra,Vector Spaces,3704
+1,2,1.0,64.0,Scalar product,Analytic Geometry,,19713
+4,3,1.0,353.0,Three points rule,Numerical Methods,,13240
+1,1,1.0,148.0,Span,Linear Algebra,Vector Spaces,5561
+2,4,1.0,249.0,Fundamental theorem of Calculus,Integration,Definite Integrals,11616
+1,1,1.0,75.0,Simple graph,Graph Theory,,19387
+5,3,1.0,116.0,Matrix operations,Linear Algebra,Matrices and Determinants,14082
+3,1,1.0,114.0,Matrix multiplication,Linear Algebra,Matrices and Determinants,8137
+3,1,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",11101
+2,4,1.0,137.0,Square linear system,Linear Algebra,Linear Systems,10302
+1,1,1.0,151.0,Basis,Linear Algebra,Vector Spaces,4264
+2,1,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,4313
+2,5,1.0,139.0,Consistent system,Linear Algebra,Linear Systems,1611
+1,5,1.0,30.0,Complex plane ,Complex Numbers,,16752
+4,4,1.0,269.0,Polynomial interpolation,Numerical Methods,,8601
+4,4,1.0,127.0,Eigenvalues,Linear Algebra,,9130
+5,5,1.0,5.0,Simplify expressions,Fundamental Mathematics,,9326
+1,4,1.0,317.0,Rearranging equations,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",14224
+2,4,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",20983
+4,4,1.0,158.0,Matrix of a linear transformation,Linear Algebra,Linear Transformations,7699
+2,2,1.0,177.0,Minimum,Optimization,Nonlinear Optimization,17104
+1,4,1.0,4.0,Quadratic equations,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",15737
+1,1,1.0,148.0,Span,Linear Algebra,Vector Spaces,6422
+5,3,1.0,114.0,Matrix multiplication,Linear Algebra,Matrices and Determinants,11682
+1,1,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,7507
+1,4,1.0,3.0,Linear equations,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",11081
+3,1,1.0,161.0,Injective linear transformation,Linear Algebra,Linear Transformations,6868
+1,2,1.0,159.0,Kernel,Linear Algebra,Linear Transformations,7747
+5,4,1.0,148.0,Span,Linear Algebra,Vector Spaces,21419
+5,3,1.0,64.0,Scalar product,Analytic Geometry,,12808
+4,3,1.0,148.0,Span,Linear Algebra,Vector Spaces,12370
+2,1,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,7334
+3,1,1.0,156.0,Linearity,Linear Algebra,Linear Transformations,7083
+4,2,1.0,2.0,Exponential function,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",14432
+2,4,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",10781
+4,1,1.0,176.0,Optimal solution,Optimization,Nonlinear Optimization,17428
+2,2,1.0,114.0,Matrix multiplication,Linear Algebra,Matrices and Determinants,21095
+1,1,1.0,85.0,Product rule,Differentiation,,20272
+2,1,,116.0,Matrix operations,Linear Algebra,Matrices and Determinants,22345
+4,2,1.0,353.0,Three points rule,Numerical Methods,,13522
+3,1,1.0,161.0,Injective linear transformation,Linear Algebra,Linear Transformations,7316
+3,2,1.0,62.0,Linear regression,Statistics,,3036
+4,6,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",21048
+1,1,,75.0,Simple graph,Graph Theory,,23216
+4,3,1.0,353.0,Three points rule,Numerical Methods,,15405
+1,5,1.0,137.0,Square linear system,Linear Algebra,Linear Systems,10644
+3,1,1.0,114.0,Matrix multiplication,Linear Algebra,Matrices and Determinants,19024
+1,2,1.0,114.0,Matrix multiplication,Linear Algebra,Matrices and Determinants,22037
+1,3,1.0,45.0,Sample,Statistics,,2281
+5,2,1.0,103.0,Direct inspection,Integration,Integration Techniques,9043
+2,1,1.0,5.0,Simplify expressions,Fundamental Mathematics,,9429
+2,4,1.0,3.0,Linear equations,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",17715
+1,4,1.0,4.0,Quadratic equations,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",10121
+5,4,1.0,15.0,Polygons,Fundamental Mathematics,,571
+1,1,1.0,9.0,Geometrical figures,Fundamental Mathematics,,16516
+3,1,1.0,161.0,Injective linear transformation,Linear Algebra,Linear Transformations,22514
+3,1,1.0,26.0,Conjugate number,Complex Numbers,,10084
+4,2,1.0,182.0,Limits,Real Functions of Several Variables,,13447
+3,2,1.0,269.0,Polynomial interpolation,Numerical Methods,,18059
+5,5,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",16047
+3,3,1.0,85.0,Product rule,Differentiation,Derivatives,2022
+3,4,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",14319
+3,2,1.0,75.0,Simple graph,Graph Theory,,19793
+2,1,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",14196
+2,5,1.0,25.0,Modulus of a complex number,Complex Numbers,,10434
+2,4,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",16319
+2,1,1.0,88.0,Sum rule,Differentiation,Derivatives,23091
+3,4,1.0,86.0,Exponential rule,Differentiation,Derivatives,14563
+4,3,1.0,14.0,Platonic solids,Fundamental Mathematics,,1814
+4,2,1.0,151.0,Basis,Linear Algebra,Vector Spaces,3697
+1,1,1.0,75.0,Simple graph,Graph Theory,,14931
+5,4,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,5823
+1,1,1.0,76.0,Incidence matrix ,Graph Theory,,19389
+3,2,1.0,295.0,Definition,Integration,Surface Integrals,20899
+2,4,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",11438
+3,1,1.0,114.0,Matrix multiplication,Linear Algebra,Matrices and Determinants,10645
+3,1,1.0,176.0,Optimal solution,Optimization,Nonlinear Optimization,21791
+1,2,1.0,118.0,Rank,Linear Algebra,Matrices and Determinants,19139
+4,3,1.0,148.0,Span,Linear Algebra,Vector Spaces,6739
+1,4,1.0,317.0,Rearranging equations,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",9821
+2,1,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",21108
+4,3,1.0,159.0,Kernel,Linear Algebra,Linear Transformations,6798
+1,4,1.0,317.0,Rearranging equations,Fundamental Mathematics,,9371
+2,1,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,6669
+2,3,1.0,177.0,Minimum,Optimization,Nonlinear Optimization,16966
+4,3,1.0,352.0,Gauss-Seidel method,Numerical Methods,,13286
+1,4,1.0,4.0,Quadratic equations,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",17756
+4,1,1.0,159.0,Kernel,Linear Algebra,Linear Transformations,7119
+4,3,1.0,159.0,Kernel,Linear Algebra,Linear Transformations,7060
+5,4,1.0,159.0,Kernel,Linear Algebra,Linear Transformations,7053
+3,2,1.0,269.0,Polynomial interpolation,Numerical Methods,,13301
+5,1,1.0,97.0,Gradient,Differentiation,Partial Differentiation,23067
+1,4,1.0,4.0,Quadratic equations,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",17778
+1,1,1.0,101.0,Substitution,Integration,Integration Techniques,8890
+3,2,1.0,158.0,Matrix of a linear transformation,Linear Algebra,Linear Transformations,7349
+4,3,1.0,114.0,Matrix multiplication,Linear Algebra,,2480
+1,5,1.0,27.0,Polar representation,Complex Numbers,,11675
+1,1,1.0,85.0,Product rule,Differentiation,Derivatives,1886
+1,1,1.0,322.0,Trace of a matrix,Linear Algebra,Eigenvalues and Eigenvectors,22188
+4,1,1.0,66.0,Orthogonality,Analytic Geometry,,8955
+2,5,1.0,137.0,Square linear system,Linear Algebra,Linear Systems,2846
+3,4,1.0,269.0,Polynomial interpolation,Numerical Methods,,18207
+2,2,1.0,45.0,Sample,Statistics,,2231
+3,5,1.0,265.0,First order,Differentiation,Partial Differentiation,22821
+2,2,1.0,114.0,Matrix multiplication,Linear Algebra,Matrices and Determinants,22075
+2,2,1.0,47.0,Frequency,Statistics,,10909
+3,4,1.0,86.0,Exponential rule,Differentiation,Derivatives,1932
+5,4,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,5684
+1,4,1.0,3.0,Linear equations,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",14500
+4,2,1.0,353.0,Three points rule,Numerical Methods,,18521
+1,4,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",14005
+3,1,1.0,114.0,Matrix multiplication,Linear Algebra,Matrices and Determinants,22131
+1,1,1.0,146.0,Vector subspace,Linear Algebra,,17493
+4,1,1.0,182.0,Limits,Real Functions of a Single Variable,,8826
+3,2,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",16057
+1,1,1.0,101.0,Substitution,Integration,Integration Techniques,11797
+2,1,1.0,156.0,Linearity,Linear Algebra,Linear Transformations,6933
+1,2,1.0,159.0,Kernel,Linear Algebra,Linear Transformations,5410
+4,4,1.0,31.0,Trigonometric form,Complex Numbers,,11502
+5,4,1.0,159.0,Kernel,Linear Algebra,Linear Transformations,11991
+2,1,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",15914
+1,4,1.0,317.0,Rearranging equations,Fundamental Mathematics,,14612
+2,2,1.0,45.0,Sample,Statistics,,2113
+2,1,1.0,268.0,Lagrange's interpolation,Numerical Methods,,17899
+3,2,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,3468
+3,2,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,6217
+1,1,1.0,101.0,Substitution,Integration,Integration Techniques,9020
+2,5,1.0,137.0,Square linear system,Linear Algebra,Linear Systems,2690
+4,1,1.0,176.0,Optimal solution,Optimization,Nonlinear Optimization,17201
+1,1,1.0,148.0,Span,Linear Algebra,Vector Spaces,3929
+4,6,,2.0,Exponential function,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",21991
+2,2,1.0,156.0,Linearity,Linear Algebra,Linear Transformations,7731
+1,2,1.0,64.0,Scalar product,Analytic Geometry,,19710
+2,2,1.0,114.0,Matrix multiplication,Linear Algebra,Matrices and Determinants,19054
+1,1,1.0,20.0,Symmetry,Fundamental Mathematics,,14615
+2,2,1.0,158.0,Matrix of a linear transformation,Linear Algebra,Linear Transformations,5586
+1,5,1.0,137.0,Square linear system,Linear Algebra,Linear Systems,2633
+4,1,1.0,177.0,Minimum,Optimization,Nonlinear Optimization,17423
+5,3,1.0,249.0,Fundamental theorem of Calculus,Integration,Definite Integrals,16463
+1,2,1.0,156.0,Linearity,Linear Algebra,,1425
+5,3,1.0,121.0,Inverse of a matrix ,Linear Algebra,Matrices and Determinants,15072
+3,2,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,2595
+2,1,1.0,5.0,Simplify expressions,Fundamental Mathematics,,16481
+2,1,1.0,5.0,Simplify expressions,Fundamental Mathematics,,1395
+3,2,1.0,151.0,Basis,Linear Algebra,Vector Spaces,6943
+3,3,1.0,72.0,Cartesian equations of a line,Analytic Geometry,,7623
+4,1,,299.0,Arithmetic sequence,Discrete Mathematics,Recursivity,22003
+1,2,1.0,159.0,Kernel,Linear Algebra,Linear Transformations,5608
+3,2,1.0,268.0,Lagrange's interpolation,Numerical Methods,,15243
+3,1,1.0,139.0,Consistent system,Linear Algebra,Linear Systems,6053
+4,4,1.0,114.0,Matrix multiplication,Linear Algebra,Matrices and Determinants,22095
+3,3,1.0,64.0,Scalar product,Analytic Geometry,,9104
+4,3,1.0,114.0,Matrix multiplication,Linear Algebra,Matrices and Determinants,1667
+2,1,1.0,103.0,Direct inspection,Integration,Integration Techniques,8469
+3,1,1.0,161.0,Injective linear transformation,Linear Algebra,,2581
+3,4,1.0,26.0,Conjugate number,Complex Numbers,,8762
+3,2,1.0,27.0,Polar representation,Complex Numbers,,21526
+4,2,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,7533
+2,1,1.0,8.0,Square roots,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",10188
+1,1,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,3897
+3,1,1.0,114.0,Matrix multiplication,Linear Algebra,Matrices and Determinants,1321
+4,1,1.0,128.0,Eigenvectors,Linear Algebra,Eigenvalues and Eigenvectors,12225
+4,4,1.0,224.0,Nonlinear equation,Numerical Methods,,12972
+1,1,1.0,23.0,Real part,Complex Numbers,,23242
+3,4,1.0,103.0,Direct inspection,Integration,,18323
+1,2,1.0,116.0,Matrix operations,Linear Algebra,Matrices and Determinants,22065
+4,3,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,13826
+1,4,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",9458
+2,4,1.0,101.0,Substitution,Integration,Integration Techniques,7565
+3,2,1.0,27.0,Polar representation,Complex Numbers,,21515
+1,4,1.0,4.0,Quadratic equations,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",17784
+3,3,1.0,16.0,Triangles,Fundamental Mathematics,,9375
+1,1,1.0,85.0,Product rule,Differentiation,Derivatives,23092
+3,2,1.0,223.0,Newton?s method,Numerical Methods,,17995
+4,6,1.0,7.0,Absolute value,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",21009
+1,1,1.0,148.0,Span,Linear Algebra,Vector Spaces,6576
+3,3,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,12092
+2,1,1.0,159.0,Kernel,Linear Algebra,,3994
+1,4,1.0,299.0,Arithmetic sequence,Discrete Mathematics,Recursivity,19412
+2,2,1.0,156.0,Linearity,Linear Algebra,Linear Transformations,7905
+3,4,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",17819
+5,4,1.0,359.0,Least squares method,Numerical Methods,,15275
+2,4,1.0,3.0,Linear equations,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",10129
+1,2,1.0,159.0,Kernel,Linear Algebra,Linear Transformations,4434
+3,2,1.0,146.0,Vector subspace,Linear Algebra,,1194
+5,3,1.0,26.0,Conjugate number,Complex Numbers,,11672
+4,6,1.0,3.0,Linear equations,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",20774
+3,2,1.0,5.0,Simplify expressions,Fundamental Mathematics,,9307
+3,1,1.0,157.0,Linear transformation,Linear Algebra,Linear Transformations,6926
+2,4,1.0,137.0,Square linear system,Linear Algebra,Linear Systems,3215
+1,4,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",14767
+3,2,1.0,62.0,Linear regression,Statistics,,14835
+3,3,1.0,139.0,Consistent system,Linear Algebra,Linear Systems,2213
+1,1,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,11920
+1,1,1.0,222.0,Bisection method,Numerical Methods,,17937
+2,1,1.0,159.0,Kernel,Linear Algebra,Linear Transformations,6095
+4,1,1.0,72.0,Cartesian equations of a line,Analytic Geometry,,1536
+1,2,1.0,116.0,Matrix operations,Linear Algebra,Matrices and Determinants,3708
+1,1,1.0,85.0,Product rule,Differentiation,Derivatives,234
+4,2,1.0,337.0,Trigonometric functions,Real Functions of a Single Variable,"Domain, Image and Graphics",12352
+2,2,1.0,65.0,Cross product,Analytic Geometry,,20294
+1,4,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",15915
+2,4,1.0,137.0,Square linear system,Linear Algebra,Linear Systems,10346
+5,4,1.0,158.0,Matrix of a linear transformation,Linear Algebra,Linear Transformations,12431
+4,2,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,3706
+4,2,1.0,351.0,Jacobi method,Numerical Methods,,17890
+2,1,1.0,222.0,Bisection method,Numerical Methods,,15558
+4,3,1.0,351.0,Jacobi method,Numerical Methods,,13508
+1,1,1.0,103.0,Direct inspection,Integration,Integration Techniques,14775
+1,1,1.0,151.0,Basis,Linear Algebra,Vector Spaces,22689
+2,4,1.0,139.0,Consistent system,Linear Algebra,Linear Systems,10705
+4,2,1.0,355.0,Simpson's rule,Numerical Methods,,9233
+1,4,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",14304
+3,1,1.0,281.0,Binary relation,Discrete Mathematics,Set Theory,20671
+1,4,1.0,3.0,Linear equations,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",16804
+5,4,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,21409
+5,4,1.0,159.0,Kernel,Linear Algebra,Linear Transformations,7765
+3,2,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,22637
+4,6,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",21250
+1,2,1.0,159.0,Kernel,Linear Algebra,Linear Transformations,5903
+5,1,1.0,72.0,Cartesian equations of a line,Analytic Geometry,,2747
+2,1,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",15903
+3,2,1.0,151.0,Basis,Linear Algebra,Vector Spaces,3660
+2,1,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",11151
+1,4,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",9576
+1,1,1.0,151.0,Basis,Linear Algebra,Vector Spaces,7963
+5,4,1.0,359.0,Least squares method,Numerical Methods,,13506
+5,6,1.0,26.0,Conjugate number,Complex Numbers,,21650
+3,3,1.0,45.0,Sample,Statistics,,2045
+1,4,1.0,265.0,First order,Differentiation,Partial Differentiation,5624
+4,2,1.0,151.0,Basis,Linear Algebra,Vector Spaces,6859
+4,1,1.0,138.0,Solution of a linear system,Linear Algebra,Linear Systems,15022
+5,4,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,6820
+3,1,1.0,114.0,Matrix multiplication,Linear Algebra,Matrices and Determinants,9076
+3,3,1.0,137.0,Square linear system,Linear Algebra,Linear Systems,10984
+3,2,1.0,158.0,Matrix of a linear transformation,Linear Algebra,Linear Transformations,3828
+2,1,1.0,16.0,Triangles,Fundamental Mathematics,Elementary Geometry,15209
+2,5,1.0,137.0,Square linear system,Linear Algebra,Linear Systems,10282
+4,3,1.0,159.0,Kernel,Linear Algebra,Linear Transformations,6415
+1,2,1.0,159.0,Kernel,Linear Algebra,Linear Transformations,4153
+2,4,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",9558
+4,3,1.0,150.0,Linear independence,Linear Algebra,Vector Spaces,2957
+5,4,1.0,222.0,Bisection method,Numerical Methods,,12951
+2,4,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",14456
+1,1,1.0,151.0,Basis,Linear Algebra,Vector Spaces,3976
+3,2,1.0,73.0,Cartesian equations of a plane,Analytic Geometry,,12006
+2,1,1.0,101.0,Substitution,Integration,Integration Techniques,12654
+1,4,1.0,3.0,Linear equations,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",10779
+3,2,,99.0,Second order,Differentiation,Partial Differentiation,22737
+1,1,1.0,88.0,Sum rule,Differentiation,Derivatives,13343
+4,3,1.0,182.0,Limits,Real Functions of a Single Variable,,8786
+2,1,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,7469
+1,2,1.0,116.0,Matrix operations,Linear Algebra,Matrices and Determinants,9965
+2,5,1.0,24.0,Imaginary part,Complex Numbers,,16097
+4,3,1.0,64.0,Scalar product,Analytic Geometry,,16658
+5,4,1.0,158.0,Matrix of a linear transformation,Linear Algebra,Linear Transformations,6428
+3,4,1.0,26.0,Conjugate number,Complex Numbers,,788
+1,1,1.0,151.0,Basis,Linear Algebra,Vector Spaces,3087
+5,3,1.0,115.0,Commuting matrices,Linear Algebra,Matrices and Determinants,19912
+2,2,1.0,156.0,Linearity,Linear Algebra,Linear Transformations,5630
+2,2,1.0,114.0,Matrix multiplication,Linear Algebra,Matrices and Determinants,19133
+2,5,1.0,265.0,First order,Differentiation,Partial Differentiation,22841
+1,4,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",16004
+2,1,1.0,103.0,Direct inspection,Integration,Integration Techniques,3441
+2,4,1.0,137.0,Square linear system,Linear Algebra,Linear Systems,2710
+4,2,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,4052
+1,2,1.0,177.0,Minimum,Optimization,Nonlinear Optimization,17302
+4,1,1.0,233.0,Limits,Real Functions of Several Variables,"Limits, Continuity, Domain and Image",21967
+1,1,1.0,148.0,Span,Linear Algebra,,863
+2,2,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,5018
+4,1,1.0,2.0,Exponential function,Fundamental Mathematics,,15745
+2,4,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",21107
+5,2,1.0,167.0,Simplex method,Optimization,Linear Optimization,15199
+3,2,1.0,250.0,Direct integrals ,Integration,Definite Integrals,9652
+3,4,1.0,177.0,Minimum,Optimization,Nonlinear Optimization,16908
+4,2,1.0,182.0,Limits,Real Functions of a Single Variable,,8827
+3,2,1.0,269.0,Polynomial interpolation,Numerical Methods,,13168
+2,5,1.0,137.0,Square linear system,Linear Algebra,Linear Systems,10280
+5,2,1.0,85.0,Product rule,Differentiation,Derivatives,12902
+4,3,1.0,351.0,Jacobi method,Numerical Methods,,13087
+3,4,1.0,356.0,Trapezoidal rule,Numerical Methods,,18598
+3,4,1.0,356.0,Trapezoidal rule,Numerical Methods,,15175
+3,4,1.0,356.0,Trapezoidal rule,Numerical Methods,,15350
+4,3,1.0,102.0,Integration by parts,Integration,Integration Techniques,9691
+3,3,1.0,137.0,Square linear system,Linear Algebra,Linear Systems,9144
+1,4,1.0,85.0,Product rule,Differentiation,Derivatives,12251
+2,2,1.0,158.0,Matrix of a linear transformation,Linear Algebra,Linear Transformations,7364
+3,2,1.0,11.0,Classification of geometric solids,Fundamental Mathematics,,1346
+1,4,1.0,317.0,Rearranging equations,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",16255
+2,1,1.0,268.0,Lagrange's interpolation,Numerical Methods,,18454
+3,2,1.0,127.0,Eigenvalues,Linear Algebra,Eigenvalues and Eigenvectors,11622
+3,1,1.0,15.0,Polygons,Fundamental Mathematics,Elementary Geometry,10817
+2,1,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,4292
+1,1,1.0,147.0,Linear combination,Linear Algebra,Vector Spaces,4091
+5,3,1.0,359.0,Least squares method,Numerical Methods,,15662
+4,3,1.0,117.0,Matrix equation,Linear Algebra,Matrices and Determinants,14900
+3,4,1.0,269.0,Polynomial interpolation,Numerical Methods,,18188
+3,3,1.0,70.0,Distance,Analytic Geometry,,16780
+3,1,1.0,114.0,Matrix multiplication,Linear Algebra,Matrices and Determinants,10257
+2,2,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,3944
+3,3,1.0,16.0,Triangles,Fundamental Mathematics,,1812
+2,1,1.0,268.0,Lagrange's interpolation,Numerical Methods,,18349
+2,4,1.0,177.0,Minimum,Optimization,Nonlinear Optimization,21759
+2,3,1.0,8.0,Square roots,Fundamental Mathematics,,1991
+4,3,1.0,352.0,Gauss-Seidel method,Numerical Methods,,17863
+3,1,1.0,161.0,Injective linear transformation,Linear Algebra,Linear Transformations,3173
+3,2,1.0,45.0,Sample,Statistics,,11327
+4,1,1.0,137.0,Square linear system,Linear Algebra,Linear Systems,9204
+5,1,1.0,99.0,Second order,Differentiation,Partial Differentiation,23024
+5,4,1.0,116.0,Matrix operations,Linear Algebra,Matrices and Determinants,11678
+4,4,1.0,49.0,Mean,Statistics,,2292
+4,4,,157.0,Linear transformation,Linear Algebra,Linear Transformations,22682
+2,1,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",10482
+1,4,1.0,3.0,Linear equations,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",696
+2,1,1.0,8.0,Square roots,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",14337
+5,1,1.0,97.0,Gradient,Differentiation,Partial Differentiation,22923
+1,1,1.0,322.0,Trace of a matrix,Linear Algebra,,1496
+4,3,1.0,30.0,Complex plane ,Complex Numbers,,8763
+3,3,1.0,176.0,Optimal solution,Optimization,Nonlinear Optimization,17344
+1,1,1.0,340.0,Monotonicity of a function,Real Functions of a Single Variable,"Domain, Image and Graphics",2418
+3,1,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",14026
+3,3,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,5675
+5,6,1.0,30.0,Complex plane ,Complex Numbers,,20598
+4,3,1.0,159.0,Kernel,Linear Algebra,Linear Transformations,6447
+4,3,1.0,353.0,Three points rule,Numerical Methods,,18226
+5,3,1.0,182.0,Limits,Real Functions of a Single Variable,Limits and Continuity,8938
+3,2,1.0,151.0,Basis,Linear Algebra,Vector Spaces,4653
+1,1,1.0,148.0,Span,Linear Algebra,Vector Spaces,4054
+4,1,1.0,43.0,Axioms of probability,Probability ,,14695
+1,2,1.0,116.0,Matrix operations,Linear Algebra,Matrices and Determinants,1606
+4,1,1.0,108.0,Cartesian coordinates,Integration,Double Integration,20578
+2,1,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",16214
+4,2,1.0,167.0,Simplex method,Optimization,Linear Optimization,13783
+1,2,1.0,64.0,Scalar product,Analytic Geometry,,15095
+1,2,1.0,156.0,Linearity,Linear Algebra,Linear Transformations,6609
+2,4,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",14348
+1,1,1.0,380.0,Euler's method,Differential Equations,,12774
+4,3,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,3123
+1,1,1.0,151.0,Basis,Linear Algebra,Vector Spaces,3525
+1,3,1.0,35.0,Sample space,Probability ,,19341
+1,1,1.0,148.0,Span,Linear Algebra,Vector Spaces,5367
+3,2,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,5943
+5,4,1.0,158.0,Matrix of a linear transformation,Linear Algebra,Linear Transformations,7001
+4,6,1.0,5.0,Simplify expressions,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",21005
+3,2,1.0,151.0,Basis,Linear Algebra,Vector Spaces,6107
+4,3,1.0,36.0,Event,Probability ,,13445
+4,2,1.0,2.0,Exponential function,Fundamental Mathematics,"Algebraic expressions, Equations, and Inequalities",10685
+4,3,1.0,167.0,Simplex method,Optimization,Linear Optimization,15200
+1,1,1.0,249.0,Fundamental theorem of Calculus,Integration,Definite Integrals,12266
+2,2,1.0,176.0,Optimal solution,Optimization,Nonlinear Optimization,17441
+5,4,1.0,157.0,Linear transformation,Linear Algebra,Linear Transformations,5927
+1,5,1.0,137.0,Square linear system,Linear Algebra,Linear Systems,11250
+1,2,1.0,159.0,Kernel,Linear Algebra,Linear Transformations,5775
+1,1,1.0,151.0,Basis,Linear Algebra,Vector Spaces,5941
+1,3,1.0,45.0,Sample,Statistics,,11420
+1,1,1.0,78.0,Path,Graph Theory,,10421
+1,5,1.0,137.0,Square linear system,Linear Algebra,Linear Systems,2821
+5,4,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,6956
+4,1,1.0,137.0,Square linear system,Linear Algebra,Linear Systems,12342
+1,2,1.0,156.0,Linearity,Linear Algebra,Linear Transformations,4210
+3,2,1.0,158.0,Matrix of a linear transformation,Linear Algebra,Linear Transformations,5879
+4,5,1.0,176.0,Optimal solution,Optimization,Nonlinear Optimization,16926
+4,4,1.0,127.0,Eigenvalues,Linear Algebra,Eigenvalues and Eigenvectors,20715
+3,2,1.0,24.0,Imaginary part,Complex Numbers,,11690
+2,3,1.0,177.0,Minimum,Optimization,Nonlinear Optimization,17097
+3,4,1.0,176.0,Optimal solution,Optimization,Nonlinear Optimization,21806
+1,3,1.0,47.0,Frequency,Statistics,,2117
+5,3,1.0,249.0,Fundamental theorem of Calculus,Integration,Definite Integrals,12049
+1,1,1.0,85.0,Product rule,Differentiation,Derivatives,20340
+1,3,1.0,45.0,Sample,Statistics,,12347
+2,1,1.0,146.0,Vector subspace,Linear Algebra,,1248
+3,2,1.0,151.0,Basis,Linear Algebra,Vector Spaces,3584
+4,2,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,4695
+5,4,1.0,116.0,Matrix operations,Linear Algebra,Matrices and Determinants,21097
+3,2,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,6881
+2,1,1.0,146.0,Vector subspace,Linear Algebra,Vector Spaces,2598
+1,2,1.0,116.0,Matrix operations,Linear Algebra,Matrices and Determinants,10583
+3,3,1.0,223.0,Newton?s method,Numerical Methods,,15258
+2,1,1.0,156.0,Linearity,Linear Algebra,Linear Transformations,3670
+2,5,1.0,35.0,Sample space,Probability ,,14732
+2,1,1.0,88.0,Sum rule,Differentiation,Derivatives,10750

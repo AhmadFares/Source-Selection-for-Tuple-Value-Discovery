@@ -1,0 +1,145 @@
+Run description:
+        Date: 2025-06-07 03:33:26.815475
+        Alpha: 0.6
+        Beta: 0.3
+        Gamma: 0.10000000000000003
+        Seed: 42
+        Total timesteps: 15000
+        User Request:   Occupation Zip-code                                       Title
+0          7    11793                             Swingers (1996)
+1         13    67042                 Very Brady Sequel, A (1996)
+2          0    77459                          Meatballs 4 (1992)
+3          1    97124  Fiendish Plot of Dr. Fu Manchu, The (1980)
+        Source Variant: [      Occupation  ... Identifiant
+0             17  ...   4305_2094
+1             17  ...    809_2399
+2              4  ...    271_1029
+3              7  ...    4186_480
+4              2  ...    136_1289
+...          ...  ...         ...
+19995         17  ...   3615_1348
+19996          2  ...   5054_1131
+19997          0  ...   3998_2365
+19998          4  ...     1879_70
+19999          4  ...   1943_2126
+
+[20000 rows x 4 columns],       Occupation Zip-code                             Title Identifiant
+20000          2    02903            Double Jeopardy (1999)   3970_2881
+20001         16    70507     Little Shop of Horrors (1986)    660_2746
+20002          7    12801       Being John Malkovich (1999)   3847_2997
+20003          0    40515                Stand by Me (1986)   3520_1259
+20004          2    97205         My Science Project (1985)   4715_2615
+...          ...      ...                               ...         ...
+39995         10    08534                   Cop Land (1997)    580_1589
+39996          0    61832               Fathers' Day (1997)   3778_1526
+39997          7    29662                Lake Placid (1999)   3681_2713
+39998          7    10016           Commitments, The (1991)   2205_3060
+39999          0    90069  Kentucky Fried Movie, The (1977)   5101_3760
+
+[20000 rows x 4 columns],       Occupation Zip-code                                   Title Identifiant
+40000          0    02472                        Road Trip (2000)   3507_3617
+40001         14    78611                        Moonraker (1979)   4354_3638
+40002          0    02148                       Wonderland (1999)   3067_3823
+40003         14    10017                Big Lebowski, The (1998)   1117_1732
+40004          4    60115                  Charlotte's Web (1973)   2242_2137
+...          ...      ...                                     ...         ...
+59995         12    53718                       Piano, The (1993)    2203_509
+59996          7    06854                       Fight Club (1999)   3331_2959
+59997          1    14608                            X-Men (2000)   5242_3793
+59998         20    45202  Monty Python and the Holy Grail (1974)   5183_1136
+59999         11    85258                       Siege, The (1998)   1968_2334
+
+[20000 rows x 4 columns],       Occupation Zip-code                             Title Identifiant
+60000         15    48187          Where Eagles Dare (1969)   5550_3366
+60001          0    97469              Seven (Se7en) (1995)     3522_47
+60002          6    97116              Avengers, The (1998)   1675_2153
+60003          0    30906                  Duck Soup (1933)   1017_1256
+60004          7    97303                   Godzilla (1998)   1030_1882
+...          ...      ...                               ...         ...
+79995          7    95031                    Dracula (1958)   3356_2645
+79996          9    95903             City of Angels (1998)   2529_1835
+79997         16    45238         Cyrano de Bergerac (1990)   2997_1277
+79998          4    16803  Last of the Mohicans, The (1992)   2931_1408
+79999          4    13148            Doctor Dolittle (1998)   2073_1911
+
+[20000 rows x 4 columns],       Occupation  ... Identifiant
+80000         20  ...     601_998
+80001          4  ...   4315_2100
+80002          0  ...   1854_3679
+80003         16  ...   3894_3793
+80004         12  ...    220_1484
+...          ...  ...         ...
+99995          5  ...   3931_2336
+99996          7  ...    4510_153
+99997          7  ...    4062_198
+99998         10  ...   1434_2027
+99999         20  ...   4167_1291
+
+[20000 rows x 4 columns],        Occupation  ... Identifiant
+100000          1  ...   1607_3783
+100001          1  ...      149_81
+100002         14  ...   3224_2135
+100003          4  ...   5241_3072
+100004          4  ...   4028_1614
+...           ...  ...         ...
+119995          8  ...   2758_2000
+119996         14  ...    477_1193
+119997         15  ...   5710_2672
+119998         17  ...   4362_2395
+119999          0  ...    3083_588
+
+[20000 rows x 4 columns],        Occupation Zip-code                                Title Identifiant
+120000          6    30064           Farewell to Arms, A (1932)    3610_976
+120001          7    98102                 Men With Guns (1997)   5636_1788
+120002          4    92507                      Fly, The (1986)   4977_2455
+120003          4    43138             Keeping the Faith (2000)   2063_3536
+120004          4    77005                        Hamlet (1948)   1755_1941
+...           ...      ...                                  ...         ...
+139995          4    48108             What Lies Beneath (2000)   2973_3798
+139996          7    74401  Fast Times at Ridgemont High (1982)   3727_3210
+139997          7    70116                    Bloodsport (1988)   2793_3444
+139998          7    60618            Killer Shrews, The (1959)   2088_3933
+139999          7    94941                Jacob's Ladder (1990)    955_3476
+
+[20000 rows x 4 columns],        Occupation Zip-code                                    Title Identifiant
+140000          0    66204                         Meatballs (1979)   4175_3040
+140001          0    73505                       Matrix, The (1999)    699_2571
+140002         20    78731                        Home Alone (1990)    2676_586
+140003          1    08904              Black Mask (Hak hap) (1996)   5763_2625
+140004         10    11235  Teenage Mutant Ninja Turtles III (1993)   1060_3440
+...           ...      ...                                      ...         ...
+159995         17    76116                      Goonies, The (1985)   3439_2005
+159996         12    46755      20,000 Leagues Under the Sea (1954)   2248_1019
+159997          0    45245                        Get Shorty (1995)     2181_21
+159998          7    92503                        Breathless (1983)   4510_3584
+159999          2    48823                    Lion King, The (1994)    3569_364
+
+[20000 rows x 4 columns],        Occupation Zip-code                     Title Identifiant
+160000         17    66044       Insider, The (1999)   3558_3006
+160001          0    13603          Moonraker (1979)   3389_3638
+160002         20    20009      Atlantic City (1980)   5848_2130
+160003         19    03226       Pulp Fiction (1994)    1084_296
+160004          7    06680   Fisher King, The (1991)   3675_3108
+...           ...      ...                       ...         ...
+179995          0    08330         Birds, The (1963)   3272_1333
+179996          0    11947  Leaving Las Vegas (1995)     4438_25
+179997          2    07026     Reservoir Dogs (1992)   1395_1089
+179998          2    55410        Stand by Me (1986)    333_1259
+179999          0    90034      Boogie Nights (1997)   5702_1673
+
+[20000 rows x 4 columns],        Occupation Zip-code                             Title Identifiant
+180000          9    98001            Odd Couple, The (1968)   4360_3507
+180001          1    29642        Romancing the Stone (1984)   5758_2406
+180002          4    73160        Princess Bride, The (1987)   3153_1197
+180003          1    91030       Sweet Hereafter, The (1997)   1952_1719
+180004          6    19104                 Parenthood (1989)   1112_3526
+...           ...      ...                               ...         ...
+199995          3    55408                   Predator (1987)   5364_3527
+199996          7    02135               Pet Sematary (1989)   5621_2513
+199997         17    55113  Silence of the Lambs, The (1991)     498_593
+199998          3    48005                   Rocky II (1979)   4041_2409
+199999          5    46254                   Candyman (1992)   4837_1342
+
+[20000 rows x 4 columns]]
+        Save path: Report_MovieLens_results/case_25/low_coverage/alpha_0.6_beta_0.3
+        

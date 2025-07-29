@@ -59,7 +59,7 @@ class DataSelectionEnv(gym.Env):
                 reward = self.compute_reward(self.current_coverage, self.current_penalty)
                 #  Give bonus for stopping with full coverage
                 if self.current_coverage >= 1.0:
-                    reward += 50 
+                    reward += 50
                     
             info = {
                 "stop": True,
@@ -72,7 +72,7 @@ class DataSelectionEnv(gym.Env):
 
         
         if action in self.selected_sources: #  Agent chooses a source it already selected
-            reward = -10  # punish invalid repeat
+            reward = -10 # punish invalid repeat
             done = True
             self.steps_taken += 1
             info = {
@@ -100,14 +100,14 @@ class DataSelectionEnv(gym.Env):
             )
             optimized_table, _ = optimize_selection(self.current_table, self.UR)
             self.current_table = optimized_table
-            print(f"Added {len(new_T)} rows from source {action}.")
-            print(f"Current table size: {len(self.current_table)} rows.")
+           # print(f"Added {len(new_T)} rows from source {action}.")
+           # print(f"Current table size: {len(self.current_table)} rows.")
 
         new_coverage, _ = compute_overall_coverage(self.current_table, self.UR)
         new_penalty, _ = compute_overall_penalty(self.current_table, self.UR)
 
         reward = self.compute_reward(new_coverage, new_penalty)
-        print("CURRENT REWARD", reward)
+        #print("CURRENT REWARD", reward)
 
         # update state tracking
         self.current_coverage = new_coverage

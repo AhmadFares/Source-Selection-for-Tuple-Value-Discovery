@@ -3,7 +3,10 @@ import pandas as pd
 import time
 import numpy as np
 from helpers.test_cases import TestCases
-
+import numpy as np
+import random
+np.random.seed(42)
+random.seed(42)
 def compute_attr_coverage(T, UR, col):
     """
     Compute the coverage for a single attribute (column).
@@ -130,7 +133,12 @@ def penalty_optimization(T, input_table, UR, i, theta):
             # Compute new coverage & penalty
             sub_cov, _ = compute_overall_coverage(T_sub, UR)
             sub_penalty, _ = compute_overall_penalty(T_sub, UR)
-
+            
+            if (
+            str(T.iloc[j]["Identifiant"]) == "18233" and 
+            str(new_row_dict["Identifiant"]) in ["default_6923", "default_8687"]
+            ):
+                print(f"Trying to replace 18233 with {new_row_dict['Identifiant']}: coverage={sub_cov}, penalty={sub_penalty}, curr_penalty={curr_penalty}")
             if sub_cov >= theta and sub_penalty < curr_penalty:
                 T = T_sub.copy()  # Update T only if a better replacement is found
                 curr_penalty = sub_penalty
@@ -169,9 +177,9 @@ def algo_main(input_table, UR, theta):
     T, i = coverage_guided_row_selection(input_table, UR, theta)
     T, count = penalty_optimization(T, input_table, UR, i, theta)
     T, optcount = optimize_selection(T, UR)
-    print(f"[algo_main] Returned {len(T)} rows.")
-    print(f"[algo_main] Coverage: {compute_overall_coverage(T, UR)[0]}")
-    print(f"[algo_main] Penalty: {compute_overall_penalty(T, UR)[0]}")
+    #print(f"[algo_main] Returned {len(T)} rows.")
+    #print(f"[algo_main] Coverage: {compute_overall_coverage(T, UR)[0]}")
+    #print(f"[algo_main] Penalty: {compute_overall_penalty(T, UR)[0]}")
 
     return T
 

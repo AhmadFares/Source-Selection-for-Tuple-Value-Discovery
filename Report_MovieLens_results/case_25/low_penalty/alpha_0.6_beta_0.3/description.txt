@@ -1,0 +1,145 @@
+Run description:
+        Date: 2025-06-07 03:09:10.996467
+        Alpha: 0.6
+        Beta: 0.3
+        Gamma: 0.10000000000000003
+        Seed: 42
+        Total timesteps: 15000
+        User Request:   Occupation Zip-code                                       Title
+0          7    11793                             Swingers (1996)
+1         13    67042                 Very Brady Sequel, A (1996)
+2          0    77459                          Meatballs 4 (1992)
+3          1    97124  Fiendish Plot of Dr. Fu Manchu, The (1980)
+        Source Variant: [       Occupation Zip-code                                    Title Identifiant
+0               4    53706                        Cat People (1982)    202_1346
+1               4    94611                        Wide Awake (1998)   4596_1812
+2              11    03301         Silence of the Lambs, The (1991)    4253_593
+3              20    60194                     She's the One (1996)    4828_804
+4              17    92661           General's Daughter, The (1999)    838_2688
+...           ...      ...                                      ...         ...
+20002          11    54401  Some Folks Call It a Sling Blade (1993)    3781_678
+20003          11    92346                         High Noon (1952)   1868_1283
+20004           1    60062                            Clerks (1994)    3635_223
+20005           0    02138                    Ice Storm, The (1997)   5317_1635
+20006          20    78746                Honeymoon in Vegas (1992)   5676_3614
+
+[20007 rows x 4 columns],        Occupation  ... Identifiant
+20007          17  ...    2303_364
+20008          17  ...    181_2872
+20009           3  ...    752_2194
+20010          18  ...   4819_2334
+20011           4  ...     403_586
+...           ...  ...         ...
+40009           5  ...   3929_1833
+40010          20  ...      889_41
+40011           1  ...   5763_2801
+40012           4  ...    1285_231
+40013           4  ...   1805_1208
+
+[20007 rows x 4 columns],        Occupation    Zip-code                         Title Identifiant
+40014           4  49503-1313        What About Bob? (1991)   4012_3809
+40015          20       75226           Working Girl (1988)   1150_2245
+40016           2       07026              Barb Wire (1996)    1395_737
+40017           4       85210                 Friday (1995)     3648_69
+40018           0       60611            Scary Movie (2000)   3650_3785
+...           ...         ...                           ...         ...
+60016           7  80004-4448  Boys from Brazil, The (1978)   2592_3204
+60017           3       55408          Twelfth Night (1996)    5364_892
+60018           9       84037     Fifth Element, The (1997)   4561_1527
+60019          17       55976                Airport (1970)   4222_2520
+60020           7       90405              Bowfinger (1999)   1916_2770
+
+[20007 rows x 4 columns],        Occupation   Zip-code                              Title Identifiant
+60021           6  193122042                  Jack Frost (1998)   5100_2392
+60022          17      37815             American Beauty (1999)    505_2858
+60023           5      60076             Peacemaker, The (1997)   1033_1616
+60024           4      13148              Apartment, The (1960)    2073_909
+60025          10      19390                 Bring It On (2000)     99_3882
+...           ...        ...                                ...         ...
+80023          20      19134              Boys and Girls (2000)   1706_3743
+80024           0      06451        Fish Called Wanda, A (1988)   2567_1079
+80025          14      01060  You Can't Take It With You (1938)   2659_1934
+80026          14      55305       Bringing Out the Dead (1999)    482_2976
+80027          14      60148          Dances with Wolves (1990)    3669_590
+
+[20007 rows x 4 columns],         Occupation Zip-code                   Title Identifiant
+80028           16    48237   Close Shave, A (1995)    4553_745
+80029           17    94538     Jackie Brown (1997)   5376_1729
+80030            3    30308      Bull Durham (1988)   1587_3361
+80031           20    95380       Phenomenon (1996)    1680_802
+80032           15    53706       Sister Act (1992)     22_3247
+...            ...      ...                     ...         ...
+100029           0    46240         Predator (1987)   4600_3527
+100030           0    08330       Rising Sun (1993)    3272_517
+100031          16    11963       Annie Hall (1977)   4573_1230
+100032          16    14424  West Side Story (1961)   4472_1947
+100033           4    80521       Hellraiser (1987)   1447_3917
+
+[20006 rows x 4 columns],         Occupation Zip-code                                   Title Identifiant
+100034           1    54650                Color Purple, The (1985)   5562_2739
+100035           0    98368                  Doctor Dolittle (1967)   1671_2135
+100036           1    94121          Buena Vista Social Club (1999)   4473_2677
+100037           1    37209                  Tequila Sunrise (1988)   6016_2802
+100038           1    29205              Terms of Endearment (1983)    149_1958
+...            ...      ...                                     ...         ...
+120035           2    55304      Big Trouble in Little China (1986)   4523_3740
+120036           7    20901         In the Heat of the Night (1967)   5566_1950
+120037           0    45245  Star Trek V: The Final Frontier (1989)   2181_1373
+120038           9    97520                              F/X (1986)    721_3763
+120039          17    98052                             Dune (1984)     44_2021
+
+[20006 rows x 4 columns],         Occupation  ... Identifiant
+120040          14  ...    3669_381
+120041           7  ...   3696_2396
+120042           1  ...    5387_281
+120043           3  ...   3816_2174
+120044          12  ...    4343_410
+...            ...  ...         ...
+140041           1  ...   2060_3826
+140042          10  ...    1928_260
+140043           4  ...   1502_1396
+140044           6  ...   4483_1197
+140045          17  ...    3414_173
+
+[20006 rows x 4 columns],         Occupation Zip-code                                Title Identifiant
+140046          17    91776              Mighty Joe Young (1998)    780_2429
+140047           4    48108             What Lies Beneath (2000)   2973_3798
+140048           7    74401  Fast Times at Ridgemont High (1982)   3727_3210
+140049           7    70116                    Bloodsport (1988)   2793_3444
+140050           7    60618            Killer Shrews, The (1959)   2088_3933
+...            ...      ...                                  ...         ...
+160047           3    01770             L.A. Confidential (1997)    127_1617
+160048           5    48103                     Robocop 2 (1990)   2456_2986
+160049          15    94022              Muriel's Wedding (1994)    5988_342
+160050          14    10017                   Three Kings (1999)   1117_2890
+160051          17    76116                  Goonies, The (1985)   3439_2005
+
+[20006 rows x 4 columns],         Occupation Zip-code                                Title Identifiant
+160052          12    46755  20,000 Leagues Under the Sea (1954)   2248_1019
+160053           0    45245                    Get Shorty (1995)     2181_21
+160054           7    92503                    Breathless (1983)   4510_3584
+160055           2    48823                Lion King, The (1994)    3569_364
+160056          17    66044                  Insider, The (1999)   3558_3006
+...            ...      ...                                  ...         ...
+180053           0    11947             Leaving Las Vegas (1995)     4438_25
+180054           2    07026                Reservoir Dogs (1992)   1395_1089
+180055           2    55410                   Stand by Me (1986)    333_1259
+180056           0    90034                 Boogie Nights (1997)   5702_1673
+180057           9    98001               Odd Couple, The (1968)   4360_3507
+
+[20006 rows x 4 columns],         Occupation Zip-code                             Title Identifiant
+180058           1    29642        Romancing the Stone (1984)   5758_2406
+180059           4    73160        Princess Bride, The (1987)   3153_1197
+180060           1    91030       Sweet Hereafter, The (1997)   1952_1719
+180061           6    19104                 Parenthood (1989)   1112_3526
+180062           4    15213                  Cell, The (2000)   2987_3863
+...            ...      ...                               ...         ...
+200059           3    55408                   Predator (1987)   5364_3527
+200060           7    02135               Pet Sematary (1989)   5621_2513
+200061          17    55113  Silence of the Lambs, The (1991)     498_593
+200062           3    48005                   Rocky II (1979)   4041_2409
+200063           5    46254                   Candyman (1992)   4837_1342
+
+[20006 rows x 4 columns]]
+        Save path: Report_MovieLens_results/case_25/low_penalty/alpha_0.6_beta_0.3
+        

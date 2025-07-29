@@ -6,6 +6,11 @@ import numpy as np
 import pandas as pd
 from stable_baselines3 import DQN
 from Multi_Source.Multi_Source import multi_source_algorithm
+from Multi_Source.Multi_Source_Cov_Stats import multi_source_algorithm_stat
+
+import random
+np.random.seed(42)
+random.seed(42)
 from RL.RL_Env import DataSelectionEnv
 from Single_Source.Coverage_Guided_Row_Selection import (
     compute_overall_coverage,
@@ -17,18 +22,18 @@ from helpers.T_splitter_into_M import split_uniform_by_rows
 from helpers.test_cases import TestCases
 from helpers.statistics_computation import compute_UR_value_frequencies_in_sources
 
-@contextmanager
-def suppress_output():
-    with open(os.devnull, "w") as devnull:
-        old_stdout = sys.stdout
-        old_stderr = sys.stderr
-        sys.stdout = devnull
-        sys.stderr = devnull
-        try:
-            yield
-        finally:
-            sys.stdout = old_stdout
-            sys.stderr = old_stderr
+# @contextmanager
+# def suppress_output():
+#     with open(os.devnull, "w") as devnull:
+#         old_stdout = sys.stdout
+#         old_stderr = sys.stderr
+#         sys.stdout = devnull
+#         sys.stderr = devnull
+#         try:
+#             yield
+#         finally:
+#             sys.stdout = old_stdout
+#             sys.stderr = old_stderr
 
 def evaluate_offline(method, sources_list, UR, theta):
     start_time = time.time()
@@ -37,6 +42,7 @@ def evaluate_offline(method, sources_list, UR, theta):
     elapsed = time.time() - start_time
     final_cov, _ = compute_overall_coverage(T_out, UR)
     final_pen, _ = compute_overall_penalty(T_out, UR)
+    print(T_out)
     return {
         "coverage": final_cov,
         "penalty": final_pen,
@@ -65,51 +71,75 @@ def evaluate_rl_agent(model_path, sources_list, UR, alpha, beta, gamma):
     env.current_table = optimize_selection(env.current_table, env.UR)[0]
     final_cov_rl, _ = compute_overall_coverage(env.current_table, env.UR)
     final_pen_rl, _ = compute_overall_penalty(env.current_table, env.UR)
+    print(env.current_table)
     return {
         "coverage": final_cov_rl,
         "penalty": final_pen_rl,
         "time": elapsed,
         "order": list(env.selected_sources),
         "steps": len(env.selected_sources),
+        
     }
 
 # ===================== MAIN SCRIPT ===========================
 
 test_cases = TestCases()
 test_cases.load_mathe_case()
-T, UR = test_cases.get_case(20)
+T, UR = test_cases.get_case(23)
 constructor = SourceConstructor(T, UR, seed=42)  # Seed for reproducibility!
 #sources_list= split_uniform_by_rows(T, 10)
-sources_list = constructor.high_penalty_sources()
-theta = 1.0
+#sources_list = constructor.high_penalty_sources()
+#sources_list = constructor.low_coverage_sources()
+sources_list = constructor.low_penalty_sources()
 
+theta = 1.0
+                                              
 results = []
 
 # ------- OFFLINE METHODS -------
 offline_methods = [
-    ("coverage_only", "Offline Coverage Only"),
-    ("coverage_penalty", "Offline Coverage+Penalty"),
-    ("algo_main", "Offline Full Algo Main"),
+     ("coverage_only", "Offline Coverage Only"),
+     ("coverage_penalty", "Offline Coverage+Penalty"),
+   ("algo_main", "Offline Full Algo Main"),
+    ("stats", "Offline Stats-based Multi-Source"), 
 ]
 
 for method, label in offline_methods:
     print(f"\n--- Evaluating {label} ---")
-    res = evaluate_offline(method, sources_list, UR, theta)
+    if method == "stats":
+        start_time = time.time()
+        T_out, _, chosen_order = multi_source_algorithm_stat(sources_list, UR, theta, method="algo_main")
+        T_out, _ = optimize_selection(T_out, UR)
+        print(T_out)
+        elapsed = time.time() - start_time
+        final_cov, _ = compute_overall_coverage(T_out, UR)
+        final_pen, _ = compute_overall_penalty(T_out, UR)
+        order = chosen_order
+        steps = len(chosen_order)
+        time_spent = elapsed
+    else:
+        res = evaluate_offline(method, sources_list, UR, theta)
+        final_cov = res["coverage"]
+        final_pen = res["penalty"]
+        order = res["order"]
+        steps = res["steps"]
+        time_spent = res["time"]
     results.append({
         "variant": label,
-        "coverage": res["coverage"],
-        "penalty": res["penalty"],
-        "steps": res["steps"],
-        "time": res["time"],
-        "order": res["order"],
+        "coverage": final_cov,
+        "penalty": final_pen,
+        "steps": steps,
+        "time": time_spent,
+        "order": order,
         "type": "offline",
     })
 
 # ------- RL AGENTS -------
 rl_agents = [
-    ("dqn_model_low_coverage_1.zip", "RL Low Coverage"),
-    ("dqn_model_low_penalty_1.zip", "RL Low Penalty"),
-    ("dqn_model_high_penalty_1.zip", "RL High Penalty"),
+    #("dqn_model_low_coverage_2.zip", "RL Low Coverage"),
+    ("low_penalty_23_dqn_model", "RL Low Penalty"),
+     ("high_penalty_23_dqn_model", "RL High Penalty"),
+    ("low_coverage_23_dqn_model", "RL Low Coverage")
 ]
 
 alpha = 0.6
@@ -118,6 +148,8 @@ gamma = 0.1
 
 for path, label in rl_agents:
     print(f"\n--- Evaluating RL agent: {label} ---")
+    print('URRRR')
+    print(UR)
     res = evaluate_rl_agent(path, sources_list, UR, alpha, beta, gamma)
     results.append({
         "variant": label,
